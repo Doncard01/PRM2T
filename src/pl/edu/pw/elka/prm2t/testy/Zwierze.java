@@ -1,4 +1,4 @@
-package pl.edu.pw.elka.prm2t.lab2;
+package pl.edu.pw.elka.prm2t.testy;
 
 import java.util.Objects;
 /**
