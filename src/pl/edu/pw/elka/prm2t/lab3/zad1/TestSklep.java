@@ -39,9 +39,9 @@ public class TestSklep {
         System.out.println("Lista produktów:");
         System.out.println(listaProduktow);
 
-        Koszyk<ProduktWKoszyku> koszyk1 = new Koszyk<>("koszyk1");
-        Koszyk<ProduktWKoszyku> koszyk2 = new Koszyk<>("koszyk2");
-        Koszyk<ProduktWKoszyku> koszyk3 = new Koszyk<>("koszyk3");
+        Koszyk koszyk1 = new Koszyk("koszyk1");
+        Koszyk koszyk2 = new Koszyk("koszyk2");
+        Koszyk koszyk3 = new Koszyk("koszyk3");
         Klient Nowak = new Klient("Nowak", koszyk1);
         Klient Kowalski = new Klient("Kowalski", koszyk2);
         Klient Goc = new Klient("Goc", koszyk3);
@@ -53,13 +53,35 @@ public class TestSklep {
         System.out.println(listaKlientow);
 
         kolejka.add(Nowak);
-        System.out.println("Kolejka: " + kolejka);
-        koszyk1.dodajDoKoszyka(lampa7);
-        koszyk1.dodajDoKoszyka(krzeslo2);
-        koszyk1.dodajDoKoszyka(stol1);
-        koszyk1.dodajDoKoszyka(szafa4);
+        Nowak.getKoszyk().dodajDoKoszyka(lampa7);
+        Nowak.getKoszyk().dodajDoKoszyka(krzeslo2);
+        Nowak.getKoszyk().dodajDoKoszyka(stol1);
+        Nowak.getKoszyk().dodajDoKoszyka(szafa4);
 
+        kolejka.add(Kowalski);
+        Kowalski.getKoszyk().dodajDoKoszyka(lampa5);
+        Kowalski.getKoszyk().dodajDoKoszyka(krzeslo4);
+        Kowalski.getKoszyk().dodajDoKoszyka(stol2);
+        Kowalski.getKoszyk().dodajDoKoszyka(szafa6);
+
+        kolejka.add(Goc);
+        Goc.getKoszyk().dodajDoKoszyka(lampa10);
+        Goc.getKoszyk().dodajDoKoszyka(krzeslo8);
+        Goc.getKoszyk().dodajDoKoszyka(stol3);
+        Goc.getKoszyk().dodajDoKoszyka(szafa9);
+
+        System.out.println("Kolejka: " + kolejka);
         System.out.println("Koszyk klienta " + Nowak.getNazwisko() + ": " + Nowak.getKoszyk());
+        kolejka.pop();
+
+        System.out.println("Kolejka: " + kolejka);
+        System.out.println("Koszyk klienta " + Kowalski.getNazwisko() + ": " + Kowalski.getKoszyk());
+        kolejka.pop();
+
+        System.out.println("Kolejka: " + kolejka);
+        System.out.println("Koszyk klienta " + Goc.getNazwisko() + ": " + Goc.getKoszyk());
+        kolejka.pop();
+        System.out.println("Kolejka: " + kolejka);
 
 
 
