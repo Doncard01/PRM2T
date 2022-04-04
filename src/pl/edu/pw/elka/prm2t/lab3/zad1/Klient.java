@@ -9,9 +9,7 @@ public class Klient {
         this.koszyk = koszyk;
     }
 
-    public String getNazwisko() {
-        return nazwisko;
-    }
+    public String getNazwisko() { return nazwisko; }
 
     public Koszyk getKoszyk() {
         return koszyk;
