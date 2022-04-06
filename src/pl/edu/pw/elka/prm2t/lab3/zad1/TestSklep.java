@@ -17,21 +17,21 @@ public class TestSklep {
         Produkt stol = new Produkt("stół", 180);
         Produkt szafa = new Produkt("szafa", 500);
 
-        ProduktWKoszyku lampa7 = new ProduktWKoszyku(lampa.getNazwa(), lampa.getCena(),  7);
-        ProduktWKoszyku lampa5 = new ProduktWKoszyku(lampa.getNazwa(), lampa.getCena(),  5);
-        ProduktWKoszyku lampa10 = new ProduktWKoszyku(lampa.getNazwa(), lampa.getCena(),  10);
+        ProduktWKoszyku lampa7 = new ProduktWKoszyku(lampa,  7);
+        ProduktWKoszyku lampa5 = new ProduktWKoszyku(lampa,  5);
+        ProduktWKoszyku lampa10 = new ProduktWKoszyku(lampa,  10);
 
-        ProduktWKoszyku krzeslo2 = new ProduktWKoszyku(krzeslo.getNazwa(), krzeslo.getCena(), 2);
-        ProduktWKoszyku krzeslo4 = new ProduktWKoszyku(krzeslo.getNazwa(), krzeslo.getCena(), 4);
-        ProduktWKoszyku krzeslo8 = new ProduktWKoszyku(krzeslo.getNazwa(), krzeslo.getCena(), 8);
+        ProduktWKoszyku krzeslo2 = new ProduktWKoszyku(krzeslo, 2);
+        ProduktWKoszyku krzeslo4 = new ProduktWKoszyku(krzeslo, 4);
+        ProduktWKoszyku krzeslo8 = new ProduktWKoszyku(krzeslo, 8);
 
-        ProduktWKoszyku stol1 = new ProduktWKoszyku(stol.getNazwa(), stol.getCena(), 1);
-        ProduktWKoszyku stol2 = new ProduktWKoszyku(stol.getNazwa(), stol.getCena(), 2);
-        ProduktWKoszyku stol3 = new ProduktWKoszyku(stol.getNazwa(), stol.getCena(), 3);
+        ProduktWKoszyku stol1 = new ProduktWKoszyku(stol, 1);
+        ProduktWKoszyku stol2 = new ProduktWKoszyku(stol, 2);
+        ProduktWKoszyku stol3 = new ProduktWKoszyku(stol, 3);
 
-        ProduktWKoszyku szafa4 = new ProduktWKoszyku(szafa.getNazwa(), szafa.getCena(), 4);
-        ProduktWKoszyku szafa6 = new ProduktWKoszyku(szafa.getNazwa(), szafa.getCena(), 6);
-        ProduktWKoszyku szafa9 = new ProduktWKoszyku(szafa.getNazwa(), szafa.getCena(), 9);
+        ProduktWKoszyku szafa4 = new ProduktWKoszyku(szafa, 4);
+        ProduktWKoszyku szafa6 = new ProduktWKoszyku(szafa, 6);
+        ProduktWKoszyku szafa9 = new ProduktWKoszyku(szafa, 9);
 
         listaProduktow.add(lampa);
         listaProduktow.add(krzeslo);

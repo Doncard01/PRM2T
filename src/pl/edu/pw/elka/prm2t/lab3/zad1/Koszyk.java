@@ -43,7 +43,8 @@ public class Koszyk<E> extends ArrayDeque<E> {
     }
 
     public static void main(String[] args) {
-        /**
+        /** stary main testowy
+         *
         Koszyk koszyk = new Koszyk("test");
         koszyk.dodajDoKoszyka("pierwszy");
         koszyk.dodajDoKoszyka("drugi");
