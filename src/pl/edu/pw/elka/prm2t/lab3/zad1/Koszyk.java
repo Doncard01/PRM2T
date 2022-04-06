@@ -1,10 +1,12 @@
 package pl.edu.pw.elka.prm2t.lab3.zad1;
 
-import java.util.Stack;
+import java.util.ArrayDeque;
+import java.util.Deque;
 
-public class Koszyk {
+
+public class Koszyk<E> extends ArrayDeque<E> {
     private String id;
-    private Stack<ProduktWKoszyku> koszyk = new Stack<>();
+    private Deque<ProduktWKoszyku> koszyk = new ArrayDeque<>();
 
     public Koszyk(String id) {
         this.id = id;
@@ -29,7 +31,7 @@ public class Koszyk {
     public String toString() {
         StringBuilder sb = new StringBuilder("\n\r");
         int i = 1;
-        float wartosc = 0;
+        double wartosc = 0;
         for (ProduktWKoszyku p : koszyk) {
             sb.append(i).append(". ").append(p).append("\n\r");
             wartosc += p.getCena()*p.getLiczbaSztukProduktu();

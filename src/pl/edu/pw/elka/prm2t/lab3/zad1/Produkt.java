@@ -2,9 +2,9 @@ package pl.edu.pw.elka.prm2t.lab3.zad1;
 
 public class Produkt {
     private String nazwa;
-    private float cena;
+    private double cena;
 
-    public Produkt(String nazwa, float cena) {
+    public Produkt(String nazwa, double cena) {
         this.nazwa = nazwa;
         this.cena = cena;
     }
@@ -13,7 +13,7 @@ public class Produkt {
         return nazwa;
     }
 
-    public float getCena() {
+    public double getCena() {
         return cena;
     }
 

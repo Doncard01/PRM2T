@@ -1,5 +1,6 @@
 package pl.edu.pw.elka.prm2t.lab3.zad1;
 
+import java.util.List;
 import java.util.ArrayList;
 import java.util.Deque;
 import java.util.ArrayDeque;
@@ -7,8 +8,8 @@ import java.util.ArrayDeque;
 public class TestSklep {
     public static void main(String... args) {
 
-        ArrayList<Produkt> listaProduktow = new ArrayList<>();
-        ArrayList<Klient> listaKlientow = new ArrayList<>();
+        List<Produkt> listaProduktow = new ArrayList<>();
+        List<Klient> listaKlientow = new ArrayList<>();
         Deque<Klient> kolejka = new ArrayDeque<>();
 
         Produkt lampa = new Produkt("lampa", 12);
