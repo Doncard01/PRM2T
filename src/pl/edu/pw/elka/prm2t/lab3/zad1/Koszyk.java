@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 
-public class Koszyk<E> extends ArrayDeque<E> {
+public class Koszyk<T> extends ArrayDeque<T> {
     private String id;
     private Deque<ProduktWKoszyku> koszyk = new ArrayDeque<>();
 
