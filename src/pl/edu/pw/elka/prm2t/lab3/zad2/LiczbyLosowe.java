@@ -66,7 +66,7 @@ public class LiczbyLosowe {
         return set;
     }
     public static void main(String[] args) {
-        LiczbyLosowe l = new LiczbyLosowe(10, 3, 1);
+        LiczbyLosowe l = new LiczbyLosowe(Integer.parseInt(args[0]), Integer.parseInt(args[1]), Integer.parseInt(args[2]));
         l.losuj();
         System.out.println(l);
         l.wypiszPierszwszeN(l.getLiczby());
