@@ -24,6 +24,50 @@ public class WhiteCoherentImageArea {
         List<Point> neighbours = new ArrayList<>();
     }
 
+    public void addNeighbours(Area temp, int i, int j, int[][] img) {
+
+        if (img[i][j-1] != 0) {
+            temp.whites++;
+            img[i][j-1] = 0;
+            addNeighbours(temp, i, j-1, img);
+        }
+        if (img[i][j+1] != 0) {
+            temp.whites++;
+            img[i][j+1] = 0;
+            addNeighbours(temp, i, j+1, img);
+        }
+        if (img[i+1][j+1] != 0) {
+            temp.whites++;
+            img[i+1][j+1] = 0;
+            addNeighbours(temp, i+1, j+1, img);
+        }
+        if (img[i+1][j-1] != 0) {
+            temp.whites++;
+            img[i+1][j-1] = 0;
+            addNeighbours(temp, i+1, j-1, img);
+        }
+        if (img[i+1][j] != 0) {
+            temp.whites++;
+            img[i+1][j] = 0;
+            addNeighbours(temp, i+1, j, img);
+        }
+        if (img[i-1][j+1] != 0) {
+            temp.whites++;
+            img[i-1][j+1] = 0;
+            addNeighbours(temp, i-1, j+1, img);
+        }
+        if (img[i-1][j-1] != 0) {
+            temp.whites++;
+            img[i-1][j-1] = 0;
+            addNeighbours(temp, i-1, j-1, img);
+        }
+        if (img[i-1][j] != 0) {
+            temp.whites++;
+            img[i-1][j] = 0;
+            addNeighbours(temp, i-1, j, img);
+        }
+    }
+
     WhiteCoherentImageArea(String pathName) throws IOException {
         this.pathName = pathName;
         final int[][] img = PRM2TUtil.readImage(pathName);
@@ -36,39 +80,16 @@ public class WhiteCoherentImageArea {
                 else {
                     Area temp = new Area();
                     temp.whites++;
-                    if (img[i][j-1] != 0) {
-                        temp.neighbours.add(new Point(i, j-1));
-                    }
-                    if (img[i][j+1] != 0) {
-                        temp.neighbours.add(new Point(i, j+1));
-                    }
-                    if (img[i+1][j+1] != 0) {
-                        temp.neighbours.add(new Point(i+1, j+1));
-                    }
-                    if (img[i+1][j-1] != 0) {
-                        temp.neighbours.add(new Point(i+1, j-1));
-                    }
-                    if (img[i+1][j] != 0) {
-                        temp.neighbours.add(new Point(i+1, j));
-                    }
-                    if (img[i-1][j+1] != 0) {
-                        temp.neighbours.add(new Point(i-1, j+1));
-                    }
-                    if (img[i-1][j-1] != 0) {
-                        temp.neighbours.add(new Point(i-1, j-1));
-                    }
-                    if (img[i-1][j] != 0) {
-                        temp.neighbours.add(new Point(i-1, j));
-                    }
+                    img[i][j]=0;
+                    addNeighbours(temp, i, j, img);
 
-
-                    img[i][j] = 0;
+                    whiteCoherentImageAreas.add(temp.whites);
                 }
             }
         }
 
 
-        System.out.println(img.length + ", " + img[0].length);
+        System.out.println("Rozmiar obrazka: " + img.length + ", " + img[0].length);
     }
 
     /**
@@ -106,7 +127,7 @@ public class WhiteCoherentImageArea {
 
     public static void main(String[] args) throws IOException {
         //final String pathName = args[0];
-        final String pathName = "resource/oneWhiteArea.png";
+        final String pathName = "resource/obrazek3.png";
         try {
             prn(new WhiteCoherentImageArea(pathName).asString());
         } catch (IOException ioe) {
