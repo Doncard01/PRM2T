@@ -26,7 +26,7 @@ public class WhiteCoherentImageArea {
 
     public void addNeighbours(Area temp, int i, int j, int[][] img) {
 
-        if (img[i][j-1] != 0 && j >= 1) {
+        if (img[i][j-1] != 0 && j-1 >= 0) {
             temp.whites++;
             img[i][j-1] = 0;
             addNeighbours(temp, i, j-1, img);
@@ -41,7 +41,7 @@ public class WhiteCoherentImageArea {
             img[i+1][j+1] = 0;
             addNeighbours(temp, i+1, j+1, img);
         }
-        if (img[i+1][j-1] != 0 && i+1 < img.length && j >= 1) {
+        if (img[i+1][j-1] != 0 && i+1 < img.length && j-1 >= 0) {
             temp.whites++;
             img[i+1][j-1] = 0;
             addNeighbours(temp, i+1, j-1, img);
@@ -51,17 +51,17 @@ public class WhiteCoherentImageArea {
             img[i+1][j] = 0;
             addNeighbours(temp, i+1, j, img);
         }
-        if (img[i-1][j+1] != 0 && i >= 1 && j+1 < img[i].length) {
+        if (img[i-1][j+1] != 0 && i-1 >= 0 && j+1 < img[i].length) {
             temp.whites++;
             img[i-1][j+1] = 0;
             addNeighbours(temp, i-1, j+1, img);
         }
-        if (img[i-1][j-1] != 0 && i >= 1 && j >= 1) {
+        if (img[i-1][j-1] != 0 && i-1 >= 0 && j-1 >= 0) {
             temp.whites++;
             img[i-1][j-1] = 0;
             addNeighbours(temp, i-1, j-1, img);
         }
-        if (img[i-1][j] != 0 && i >= 1) {
+        if (img[i-1][j] != 0 && i-1 >= 0) {
             temp.whites++;
             img[i-1][j] = 0;
             addNeighbours(temp, i-1, j, img);
