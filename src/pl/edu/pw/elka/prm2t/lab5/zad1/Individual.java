@@ -18,6 +18,24 @@ public abstract class Individual {
      * Numer identyfikacyjny osobnika.
      */
     public final long id;
+    /**
+     * zmienne do liczenia wystąpień True i False
+     */
+    private long ileTrue, ileFalse;
+
+    /**
+     * @return ileTrue
+     */
+    public long getIleTrue() {
+        return ileTrue;
+    }
+
+    /**
+     * @return ileFalse
+     */
+    public long getIleFalse() {
+        return ileFalse;
+    }
 
     /**
      * Bieżąca liczba punktów.
@@ -32,7 +50,7 @@ public abstract class Individual {
     /**
      *  getter do listy wyżej
      */
-    public List getList() {
+    public List<Boolean> getList() {
         return list;
     }
 

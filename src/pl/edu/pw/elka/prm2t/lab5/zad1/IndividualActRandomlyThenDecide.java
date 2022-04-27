@@ -3,7 +3,7 @@ package pl.edu.pw.elka.prm2t.lab5.zad1;
 import java.util.HashMap;
 import java.util.Random;
 import java.util.List;
-import java.util.ArrayList;
+import java.util.Collection;
 
 /**
  * Osobnik realizujący strategię "najpierw współpracuj, potem jeśli 2 ostatnie ruchy przeciwnika to zdrada - zdradź,
@@ -17,11 +17,26 @@ public class IndividualActRandomlyThenDecide extends Individual {
 
     @Override
     public boolean willCooperate(Individual other) {
+        List<Boolean> temp = other.getList();
+        long ileTrue = other.getIleTrue();
+        long ileFalse = other.getIleFalse();
+        for (Boolean b : temp) {
+            if (b == true) {
+                ileTrue++;
+            } else if (b == false) {
+                ileFalse++;
+            }
+        }
+
         if (memory.get(other.id) == null) {
             Random rd = new Random();
             return rd.nextBoolean();
-        } else {
+        } else if (ileTrue > ileFalse) {
+            return true;
+        } else if (ileFalse > ileTrue) {
             return false;
+        } else {
+            return true;
         }
     }
 
@@ -37,6 +52,6 @@ public class IndividualActRandomlyThenDecide extends Individual {
     }
 
     public String asString() {
-        return "Cooperate once then decide";
+        return "Act randomly once then decide";
     }
 }
