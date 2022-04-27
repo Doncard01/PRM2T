@@ -48,6 +48,9 @@ public class Simulation<T extends Individual> {
         simulations.add(new Simulation<>(nEach, IndividualAlwaysDefect::new));
         simulations.add(new Simulation<>(nEach, IndividualActRandomly::new));
         simulations.add(new Simulation<>(nEach, IndividualCooperateThenRepeat::new));
+        simulations.add(new Simulation<>(nEach, IndividualDefectThenRepeat::new));
+        simulations.add(new Simulation<>(nEach, IndividualActRandomlyThenRepeat::new));
+        simulations.add(new Simulation<>(nEach, IndividualCooperateThenDecide::new));
 
         int tSpan = 30000;  // Liczba spotkań na osobnika w ramach całej symulacji
 
