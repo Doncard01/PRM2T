@@ -1,5 +1,9 @@
 package pl.edu.pw.elka.prm2t.lab5.zad1;
 
+import javax.imageio.plugins.bmp.BMPImageWriteParam;
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Osobnik w symulacji dotyczącej strategii ewolucyjnie stabilnych.
  */
@@ -19,6 +23,25 @@ public abstract class Individual {
      * Bieżąca liczba punktów.
      */
     private int points;
+
+    /**
+     * Lista do czytania poprzednich ruchów
+     */
+    private List<Boolean> list = new ArrayList<>();
+
+    /**
+     *  getter do listy wyżej
+     */
+    public List getList() {
+        return list;
+    }
+
+    /**
+     * metoda dodawania rekordów do listy
+     */
+    public void addToList(Boolean wart){
+        list.add(wart);
+    }
 
     /**
      * Wybór "współpracy" lub "zdrady" przy spotkaniu z innym osobnikiem.
