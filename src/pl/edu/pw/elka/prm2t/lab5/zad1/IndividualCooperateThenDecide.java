@@ -17,7 +17,9 @@ public class IndividualCooperateThenDecide extends Individual {
     public boolean willCooperate(Individual other) {
         if (memory.get(other.id) == null && memory2.get(other.id) == null) {
             return true;
-        } else if (memory.get(other.id) == false & memory2.get(other.id) == false){
+        } else if (memory2.get(other.id) == null) {
+            return true;
+        } else if (memory.get(other.id) == false && memory2.get(other.id) == false) {
             return false;
         } else {
             return true;
