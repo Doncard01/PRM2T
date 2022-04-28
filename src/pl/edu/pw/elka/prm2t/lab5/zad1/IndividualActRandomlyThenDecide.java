@@ -45,10 +45,8 @@ public class IndividualActRandomlyThenDecide extends Individual {
     protected void rememberInteraction(Individual other, boolean otherAction) {
         if (!memory.containsKey(other.id)) {
             memory.put(other.id, new ArrayList<>());
-            memory.get(other.id).add(otherAction);
-        } else {
-            memory.get(other.id).add(otherAction);
         }
+        memory.get(other.id).add(otherAction);
     }
 
     @Override
