@@ -1,9 +1,6 @@
 package pl.edu.pw.elka.prm2t.lab5.zad1;
 
-import java.util.HashMap;
-import java.util.Random;
-import java.util.List;
-import java.util.Collection;
+import java.util.*;
 
 /**
  * Osobnik realizujący strategię "najpierw współpracuj, potem jeśli 2 ostatnie ruchy przeciwnika to zdrada - zdradź,
@@ -17,21 +14,25 @@ public class IndividualActRandomlyThenDecide extends Individual {
 
     @Override
     public boolean willCooperate(Individual other) {
-        List<Boolean> temp = other.getList();
-        long ileTrue = other.getIleTrue();
-        long ileFalse = other.getIleFalse();
-        for (Boolean b : temp) {
-            if (b == true) {
-                ileTrue++;
-            } else if (b == false) {
-                ileFalse++;
-            }
-        }
+        long ileTrue = 0;
+        long ileFalse = 0;
 
         if (memory.get(other.id) == null) {
             Random rd = new Random();
             return rd.nextBoolean();
-        } else if (ileTrue > ileFalse) {
+        } else
+        {
+            List<Boolean> temp = memory.get(other.id);
+            for (Boolean b : temp) {
+                if (b == true) {
+                    ileTrue++;
+                } else if (b == false) {
+                    ileFalse++;
+                }
+            }
+        }
+
+        if (ileTrue > ileFalse) {
             return true;
         } else if (ileFalse > ileTrue) {
             return false;
@@ -42,8 +43,12 @@ public class IndividualActRandomlyThenDecide extends Individual {
 
     @Override
     protected void rememberInteraction(Individual other, boolean otherAction) {
-        other.addToList(otherAction);
-        memory.put(other.id, other.getList());
+        if (!memory.containsKey(other.id)) {
+            memory.put(other.id, new ArrayList<>());
+            memory.get(other.id).add(otherAction);
+        } else {
+            memory.get(other.id).add(otherAction);
+        }
     }
 
     @Override
