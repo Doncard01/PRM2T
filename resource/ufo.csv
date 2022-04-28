@@ -1,0 +1,1635 @@
+datetime,city,state,country,shape,duration (seconds),latitude,longitude
+10/10/1949 20:30,san marcos,tx,us,cylinder,2700,29.8831,-97.9411
+10/10/1956 21:00,edna,tx,us,circle,20,28.9783,-96.6458
+10/10/1960 20:00,kaneohe,hi,us,light,900,21.4181,-157.8036
+10/10/1961 19:00,bristol,tn,us,sphere,300,36.5950,-82.1889
+10/10/1965 23:45,norwalk,ct,us,disk,1200,41.1175,-73.4083
+10/10/1966 20:00,pell city,al,us,disk,180,33.5861,-86.2861
+10/10/1966 21:00,live oak,fl,us,disk,120,30.2947,-82.9842
+10/10/1968 13:00,hawthorne,ca,us,circle,300,33.9164,-118.3517
+10/10/1968 19:00,brevard,nc,us,fireball,180,35.2333,-82.7344
+10/10/1970 16:00,bellmore,ny,us,disk,1800,40.6686,-73.5275
+10/10/1970 19:00,manchester,ky,us,unknown,180,37.1536,-83.7619
+10/10/1971 21:00,lexington,nc,us,oval,30,35.8239,-80.2536
+10/10/1972 19:00,harlan county,ky,us,circle,1200,36.8431,-83.3219
+10/10/1972 22:30,west bloomfield,mi,us,disk,120,42.5378,-83.2331
+10/10/1973 19:00,niantic,ct,us,disk,1800,41.3253,-72.1936
+10/10/1974 19:30,hudson,ma,us,other,2700,42.3917,-71.5667
+10/10/1974 23:00,hudson,ks,us,light,1200,38.1056,-98.6597
+10/10/1975 17:00,north charleston,sc,us,light,360,32.8544,-79.9750
+10/10/1976 20:30,washougal,wa,us,oval,60,45.5828,-122.3522
+10/10/1977 12:00,san antonio,tx,us,other,30,29.4239,-98.4933
+10/10/1977 22:00,louisville,ky,us,light,30,38.2542,-85.7594
+10/10/1978 02:00,elmont,ny,us,rectangle,300,40.7008,-73.7133
+10/10/1979 00:00,poughkeepsie,ny,us,chevron,900,41.7003,-73.9214
+10/10/1979 22:00,san diego,ca,us,oval,180,32.7153,-117.1564
+10/10/1979 22:00,security,co,us,unknown,1800,38.7583,-104.7425
+10/10/1980 19:00,houston,tx,us,sphere,180,29.7631,-95.3631
+10/10/1980 22:00,dallas,tx,us,unknown,300,32.7833,-96.8000
+10/10/1980 23:30,manchester,nh,us,light,300,42.9956,-71.4553
+10/10/1984 05:00,houston,tx,us,circle,60,29.7631,-95.3631
+10/10/1984 12:00,traverse city,mi,us,other,120,44.7631,-85.6206
+10/10/1984 22:00,white plains,ny,us,formation,20,41.0339,-73.7633
+10/10/1988 18:00,milwaukee,wi,us,triangle,600,43.0389,-87.9064
+10/10/1988 21:00,new gloucester,me,us,unknown,120,43.9628,-70.2831
+10/10/1988 22:00,boulder,co,us,light,60,40.0150,-105.2700
+10/10/1988 22:45,seattle (ballard area),wa,us,unknown,2,47.6064,-122.3308
+10/10/1989 00:00,calabasas,ca,us,disk,300,34.1578,-118.6375
+10/10/1989 21:00,centralia,wa,us,triangle,60,46.7164,-122.9531
+10/10/1990 21:00,ashburn,ga,us,triangle,120,31.7058,-83.6533
+10/10/1991 22:00,frisco,nc,us,unknown,1800,35.2350,-75.6289
+10/10/1991 22:00,harrisburg,pa,us,triangle,600,40.2736,-76.8847
+10/10/1992 17:00,panama city,fl,us,formation,3600,30.1586,-85.6603
+10/10/1992 18:00,stafford,tx,us,unknown,10,29.6158,-95.5575
+10/10/1992 20:15,seymour,tn,us,cigar,60,35.8906,-83.7247
+10/10/1992 22:00,weatherford,tx,us,unknown,30,32.7592,-97.7969
+10/10/1993 22:00,peoria,il,us,light,8,40.6936,-89.5889
+10/10/1993 23:00,carthage,tn,us,other,60,36.2522,-85.9517
+10/10/1994 18:30,burnt hills,ny,us,rectangle,120,42.9097,-73.8956
+10/10/1994 22:00,pinebergen,ar,us,light,5,34.1028,-91.9922
+10/10/1994 23:00,toronto (greater toronto area) (canada),on,ca,sphere,3600,43.6667,-79.4167
+10/10/1996 03:20,higginsville,mo,us,triangle,3,39.0725,-93.7169
+10/10/1996 22:00,charleston,sc,us,light,300,32.7764,-79.9311
+10/10/1996 22:30,monroe county,oh,us,cylinder,60,39.4403,-84.3622
+10/10/1997 16:00,connersville,in,us,delta,14400,39.6411,-85.1411
+10/10/1997 17:00,mesa,az,us,sphere,30,33.4222,-111.8219
+10/10/1997 20:00,bonaire,ga,us,triangle,300,32.5436,-83.5961
+10/10/1997 21:00,austin,mn,us,other,3600,43.6667,-92.9744
+10/10/1998 02:30,hollywood,ca,us,changing,300,34.0983,-118.3258
+10/10/1998 03:30,phoenix (north part),az,us,fireball,15,33.4483,-112.0733
+10/10/1998 13:15,elgin,il,us,cylinder,1800,42.0372,-88.2811
+10/10/1998 17:30,las vegas,nv,us,cigar,600,36.1750,-115.1364
+10/10/1998 17:30,las vegas,nv,us,circle,2700,36.1750,-115.1364
+10/10/1998 20:30,spokane (about 30 miles sw of&#44i-90&#44 maybe mm 254),wa,us,triangle,600,47.6589,-117.4250
+10/10/1998 20:50,mooresville,nc,us,light,2,35.5847,-80.8103
+10/10/1998 22:30,st. john&#39s (canada),nf,ca,egg,7200,47.5500,-52.6667
+10/10/1998 23:50,delano,tn,us,fireball,15,35.2650,-84.5533
+10/10/1999 00:01,martinez,ca,us,changing,3600,38.0194,-122.1331
+10/10/1999 04:00,kansas city,ks,us,unknown,600,39.1142,-94.6272
+10/10/1999 06:00,dallas,tx,us,other,10,32.7833,-96.8000
+10/10/1999 11:00,san diego,ca,us,fireball,3600,32.7153,-117.1564
+10/10/1999 12:40,kennewick,wa,us,sphere,45,46.2114,-119.1361
+10/10/1999 20:35,hayward,ca,us,circle,90,37.6689,-122.0797
+10/10/1999 21:00,ashland (at our home),mo,us,light,0,38.7744,-92.2569
+10/10/1999 21:00,rachel,nv,us,light,10800,37.6447,-115.7428
+10/10/1999 21:30,humphrey,ne,us,sphere,300,41.6917,-97.4842
+10/10/1999 22:30,elgin,or,us,chevron,240,45.5650,-117.9164
+10/10/1999 23:45,lewiston,mi,us,oval,2700,44.8839,-84.3056
+10/10/2000 03:00,perryville,mo,us,oval,180,37.7242,-89.8611
+10/10/2000 06:15,boynton beach,fl,us,other,10,26.5250,-80.0667
+10/10/2000 07:30,victoria (canada),bc,ca,cylinder,30,46.2167,-63.4833
+10/10/2000 20:30,brinktown,mo,us,light,1800,38.1267,-92.0844
+10/10/2000 21:30,florence,ky,us,light,5,38.9989,-84.6267
+10/10/2000 21:30,seattle (west),wa,us,unknown,10,47.6064,-122.3308
+10/10/2000 22:00,port orchard,wa,us,diamond,60,47.5406,-122.6350
+10/10/2001 03:00,rockwell city,ia,us,triangle,240,42.3953,-94.6336
+10/10/2001 20:10,vancouver (canada),bc,ca,other,300,49.2500,-123.1333
+10/10/2001 20:35,hayward,ca,us,circle,120,37.6689,-122.0797
+10/10/2001 21:15,ottumwa,ia,us,rectangle,300,41.0042,-92.3736
+10/10/2001 21:30,fresno,ca,us,changing,900,36.7478,-119.7714
+10/10/2001 22:00,phoenix,az,us,triangle,60,33.4483,-112.0733
+10/10/2001 23:00,virginia beach,va,us,triangle,30,36.8528,-75.9783
+10/10/2002 00:01,hayward,wi,us,flash,43,46.0131,-91.4844
+10/10/2002 02:00,philomath,or,us,unknown,5,44.5403,-123.3664
+10/10/2002 06:00,seattle,wa,us,sphere,90,47.6064,-122.3308
+10/10/2002 19:45,victoria (canada),bc,ca,unknown,120,46.2167,-63.4833
+10/10/2002 20:30,cincinnati,oh,us,other,1800,39.1619,-84.4569
+10/10/2002 21:00,portland,or,us,circle,120,45.5236,-122.6750
+10/10/2003 12:00,alhambra,ca,us,oval,300,34.0953,-118.1261
+10/10/2003 18:00,indianapolis,in,us,sphere,1800,39.7683,-86.1581
+10/10/2003 19:15,centreville,va,us,other,600,38.8403,-77.4292
+10/10/2003 20:05,grand view,id,us,light,15,42.9897,-116.0925
+10/10/2003 20:25,temperance,mi,us,oval,18000,41.7792,-83.5689
+10/10/2003 21:10,crescent beach,sc,us,formation,37800,33.8075,-78.7011
+10/10/2003 22:00,albuquerque,nm,us,light,180,35.0844,-106.6506
+10/10/2003 23:25,gleason,wi,us,sphere,1800,45.3089,-89.4964
+10/10/2004 02:50,mahwah,nj,us,triangle,180,41.0886,-74.1442
+10/10/2004 03:50,portage la prairie (canada),mb,ca,changing,1200,49.9667,-98.3000
+10/10/2004 04:18,terre haute,in,us,sphere,5,39.4667,-87.4139
+10/10/2004 08:30,indianapolis,in,us,oval,15,39.7683,-86.1581
+10/10/2004 09:45,nobel (canada),on,ca,unknown,300,45.4167,-80.1000
+10/10/2004 14:00,morgantown,wv,us,circle,10,39.6294,-79.9561
+10/10/2004 15:00,berkeley,ca,us,unknown,180,37.8717,-122.2717
+10/10/2004 15:00,rock island,il,us,sphere,3600,41.5094,-90.5786
+10/10/2004 19:00,ripley,ny,us,circle,900,42.2669,-79.7108
+10/10/2004 21:00,faribault,mn,us,flash,900,44.2950,-93.2686
+10/10/2004 21:00,mansfield,oh,us,light,7200,40.7583,-82.5156
+10/10/2004 22:00,columbia,mo,us,light,60,38.9517,-92.3339
+10/10/2004 23:30,gleason,wi,us,sphere,3000,45.3089,-89.4964
+10/10/2005 07:40,seattle,wa,us,other,60,47.6064,-122.3308
+10/10/2005 09:00,apache junction,az,us,other,30,33.4150,-111.5489
+10/10/2005 09:30,north miami beach,fl,us,oval,1800,25.9328,-80.1628
+10/10/2005 14:45,los angeles,ca,us,egg,10,34.0522,-118.2428
+10/10/2005 20:00,loretto,pa,us,triangle,300,40.5031,-78.6306
+10/10/2005 21:00,lewisburg,tn,us,unknown,240,35.4492,-86.7889
+10/10/2005 21:30,north miami beach,fl,us,other,3600,25.9328,-80.1628
+10/10/2005 22:08,east wenatchee,wa,us,light,1200,47.4158,-120.2919
+10/10/2005 23:00,hendersonville,nc,us,light,600,35.3186,-82.4611
+10/10/2005 23:07,brainerd,mn,us,disk,300,46.3581,-94.2006
+NaT,franklin,in,us,disk,0,39.4806,-86.0550
+10/10/2006 01:00,pennington,tx,us,diamond,3600,31.1911,-95.2353
+10/10/2006 05:00,san francisco,ca,us,triangle,600,37.7750,-122.4183
+10/10/2006 12:37,blairsville,ga,us,unknown,10,34.8761,-83.9583
+10/10/2006 16:00,savannah,tn,us,light,600,35.2247,-88.2492
+10/10/2006 16:00,waynesboro,va,us,triangle,600,38.0683,-78.8897
+10/10/2006 20:00,bray,ok,us,other,360,34.6378,-97.8172
+10/10/2006 22:40,waycross,ga,us,light,120,31.2133,-82.3542
+10/10/2006 22:50,wolfforth,tx,us,disk,300,33.5058,-102.0086
+10/10/2006 23:00,lyndhurst,oh,us,unknown,300,41.5200,-81.4889
+10/10/2006 23:55,knik,ak,us,triangle,0,61.4578,-149.7289
+10/10/2007 01:00,lebanon,or,us,light,14400,44.5367,-122.9058
+10/10/2007 01:00,stockbridge,ga,us,changing,3600,33.5442,-84.2339
+10/10/2007 04:00,denver,co,us,changing,2700,39.7392,-104.9842
+10/10/2007 04:30,jacksonville,fl,us,sphere,30,30.3319,-81.6558
+10/10/2007 05:00,bakersfield,ca,us,circle,0,35.3733,-119.0178
+10/10/2007 06:00,indio,ca,us,oval,600,33.7206,-116.2147
+10/10/2007 13:00,owego,ny,us,triangle,10800,42.1033,-76.2625
+10/10/2007 18:33,downingtown,pa,us,circle,120,40.0064,-75.7036
+10/10/2007 19:00,austin,tx,us,flash,3,30.2669,-97.7428
+10/10/2007 20:10,starrsville (covington),ga,us,sphere,60,33.5394,-83.8194
+10/10/2007 20:30,conyers,ga,us,unknown,3600,33.6675,-84.0178
+10/10/2007 20:55,vero beach,fl,us,unknown,30,27.6383,-80.3975
+10/10/2007 21:00,jensen beach,fl,us,oval,120,27.2542,-80.2300
+10/10/2007 21:43,houston,tx,us,formation,35,29.7631,-95.3631
+10/10/2007 22:00,duluth,mn,us,light,600,46.7833,-92.1064
+10/10/2007 22:00,fleming,co,us,circle,600,40.6800,-102.8389
+10/10/2007 22:00,grove city,pa,us,unknown,3600,41.1578,-80.0889
+10/10/2007 22:00,van alstyne,tx,us,other,4,33.4214,-96.5769
+10/10/2007 23:05,northglenn,co,us,triangle,15,39.8856,-104.9867
+10/10/2008 02:00,london (canada),on,ca,other,120,42.9833,-81.2500
+10/10/2008 02:00,north branch,mn,us,light,300,45.5114,-92.9800
+10/10/2008 02:00,slingerlands,ny,us,circle,240,42.6292,-73.8650
+10/10/2008 04:00,carlin,nv,us,disk,600,40.7139,-116.1031
+10/10/2008 04:50,evansville,in,us,formation,600,37.9747,-87.5558
+10/10/2008 06:00,albany,ny,us,oval,45,42.6525,-73.7567
+10/10/2008 09:30,amarillo (hwy. 140),tx,us,flash,0,35.2219,-101.8308
+10/10/2008 10:22,fremont,ca,us,triangle,60,37.5483,-121.9875
+10/10/2008 18:00,yuma,az,us,triangle,900,32.7253,-114.6236
+10/10/2008 19:00,south bend,in,us,light,600,41.6833,-86.2500
+10/10/2008 20:00,la crescent,mn,us,formation,10,43.8281,-91.3039
+10/10/2008 20:00,philadelphia,pa,us,oval,60,39.9522,-75.1642
+10/10/2008 20:00,seattle,wa,us,light,180,47.6064,-122.3308
+10/10/2008 20:40,pueblo,co,us,light,300,38.2544,-104.6086
+10/10/2008 21:30,cincinnati,oh,us,oval,900,39.1619,-84.4569
+10/10/2008 22:00,san diego,ca,us,disk,30,32.7153,-117.1564
+10/10/2008 22:30,madison,wi,us,circle,20,43.0731,-89.4011
+10/10/2008 23:15,coldwater,oh,us,sphere,60,40.4797,-84.6283
+10/10/2009 12:00,crested butte,co,us,egg,60,38.8697,-106.9872
+10/10/2009 12:42,tulsa,ok,us,unknown,6,36.1539,-95.9925
+10/10/2009 16:24,eagar,az,us,unknown,180,34.1111,-109.2908
+10/10/2009 19:30,suffolk,va,us,unknown,900,36.7281,-76.5839
+10/10/2009 20:30,anaheim,ca,us,light,300,33.8353,-117.9136
+10/10/2009 20:45,wilmington,nc,us,light,600,34.2256,-77.9450
+10/10/2009 21:00,leesburg,va,us,disk,300,39.1156,-77.5639
+10/10/2009 22:30,thief river falls,mn,us,other,0,48.1192,-96.1808
+10/10/2009 23:00,michigan city,in,us,changing,900,41.7075,-86.8950
+10/10/2009 23:23,cupertino,ca,us,light,180,37.3231,-122.0311
+10/10/2010 01:00,orchard park,ny,us,light,7200,42.7675,-78.7442
+10/10/2010 02:30,harrisburg,pa,us,circle,240,40.2736,-76.8847
+10/10/2010 03:00,euclid,oh,us,circle,180,41.5931,-81.5269
+10/10/2010 08:30,starr,sc,us,formation,600,34.3769,-82.6958
+10/10/2010 10:45,leominster,ma,us,flash,0,42.5250,-71.7603
+10/10/2010 12:00,greenwich,ct,us,light,240,41.0264,-73.6289
+10/10/2010 13:00,north charleston,sc,us,light,180,32.8544,-79.9750
+10/10/2010 16:30,springfield,va,us,cigar,15,38.7892,-77.1875
+10/10/2010 17:10,bridgeport,ct,us,light,600,41.1669,-73.2053
+10/10/2010 18:30,clackamas,or,us,triangle,120,45.4078,-122.5692
+10/10/2010 20:00,san angelo,tx,us,oval,60,31.4636,-100.4367
+10/10/2010 20:20,windsor,ct,us,fireball,5,41.8525,-72.6442
+10/10/2010 20:45,sterling,il,us,cylinder,600,41.7886,-89.6961
+10/10/2010 21:00,everett,wa,us,other,30,47.9792,-122.2008
+10/10/2010 21:00,kykotsmovi,az,us,disk,7200,35.8753,-110.6197
+10/10/2010 21:30,albany,ny,us,circle,10,42.6525,-73.7567
+10/10/2010 22:30,garden grove,ca,us,egg,7200,33.7739,-117.9406
+10/10/2010 23:00,miami,fl,us,changing,1200,25.7739,-80.1939
+10/10/2010 23:30,anaheim,ca,us,disk,0,33.8353,-117.9136
+10/10/2011 00:00,troy,ny,us,triangle,7200,42.7283,-73.6922
+10/10/2011 01:00,farmington,nm,us,circle,300,36.7281,-108.2181
+10/10/2011 02:00,prescott valley,az,us,other,300,34.6100,-112.3150
+10/10/2011 10:30,ashville,ny,us,circle,60,42.0964,-79.3758
+10/10/2011 14:30,north kingstown,ri,us,oval,40,41.5500,-71.4667
+10/10/2011 15:00,groton,ct,us,disk,5,41.3500,-72.0789
+10/10/2011 19:00,mechanicsville,va,us,light,300,37.6086,-77.3736
+10/10/2011 20:00,hamilton (canada),on,ca,flash,4,43.2500,-79.8333
+10/10/2011 20:00,middletown,ct,us,fireball,1200,41.5622,-72.6511
+10/10/2011 21:00,lakewood,oh,us,fireball,60,41.4819,-81.7983
+10/10/2011 21:00,york,pa,us,circle,15,39.9625,-76.7281
+10/10/2011 21:55,north platte,ne,us,circle,3,41.1239,-100.7650
+10/10/2011 23:00,waynesville,oh,us,triangle,90,39.5297,-84.0867
+10/10/2012 10:15,bridgeport,ct,us,circle,630,41.1669,-73.2053
+10/10/2012 18:56,san diego,ca,us,sphere,240,32.7153,-117.1564
+10/10/2012 19:09,sterling heights,mi,us,oval,120,42.5803,-83.0303
+10/10/2012 19:40,syracuse,ny,us,light,900,43.0481,-76.1478
+10/10/2012 19:45,syracuse,ny,us,circle,240,43.0481,-76.1478
+10/10/2012 20:00,colorado springs,co,us,light,20,38.8339,-104.8208
+10/10/2012 20:00,moundville,al,us,changing,240,32.9975,-87.6300
+10/10/2012 20:15,new york city (bronx),ny,us,disk,1800,40.7142,-74.0064
+10/10/2012 20:30,las cruces,nm,us,fireball,120,32.3122,-106.7778
+10/10/2012 20:30,marion,il,us,light,240,37.7306,-88.9331
+10/10/2012 20:30,san jose,ca,us,other,6,37.3394,-121.8939
+10/10/2012 20:45,phoenix,az,us,sphere,300,33.4483,-112.0733
+10/10/2012 20:48,yakima,wa,us,light,240,46.6022,-120.5047
+10/10/2012 21:00,austin,tx,us,changing,1200,30.2669,-97.7428
+10/10/2012 21:00,bean station,tn,us,cigar,180,36.3436,-83.2842
+10/10/2012 21:00,rochester,wa,us,light,600,46.8219,-123.0950
+10/10/2012 23:01,suffern,ny,us,cylinder,20,41.1147,-74.1500
+10/10/2012 23:20,rancho mirage,ca,us,rectangle,5,33.7397,-116.4119
+10/10/2013 02:32,palm harbor,fl,us,chevron,5,28.0778,-82.7639
+10/10/2013 04:00,sandusky,oh,us,triangle,0,41.4489,-82.7081
+10/10/2013 17:00,st. louis county,mo,us,light,10800,38.6272,-90.1978
+10/10/2013 17:10,ottawa (canada),on,ca,light,10,45.4167,-75.7000
+10/10/2013 19:00,rittman,oh,us,light,60,40.9781,-81.7822
+10/10/2013 19:15,harvey station (canada),nb,ca,light,120,45.7167,-67.0000
+10/10/2013 19:20,essex junction,vt,us,light,120,44.4906,-73.1114
+10/10/2013 19:20,kenner,la,us,circle,600,29.9939,-90.2417
+10/10/2013 20:00,drexel,oh,us,circle,300,39.7464,-84.2867
+10/10/2013 20:00,hudson,nh,us,light,5,42.7647,-71.4403
+10/10/2013 20:30,grand blanc,mi,us,light,1200,42.9275,-83.6300
+10/10/2013 20:30,savage,mn,us,circle,60,44.7792,-93.3361
+10/10/2013 20:32,warren,mi,us,sphere,45,42.4775,-83.0278
+10/10/2013 20:35,canton,mi,us,triangle,180,42.3086,-83.4822
+10/10/2013 21:17,lost creek,wv,us,triangle,45,39.1611,-80.3522
+10/10/2013 21:30,hudson,nh,us,light,1,42.7647,-71.4403
+10/11/1973 16:45,jupiter,fl,us,egg,14400,26.9339,-80.0944
+10/11/1978 23:00,brighton,mi,us,circle,300,42.5294,-83.7803
+10/11/1987 21:30,minnetonka,mn,us,light,30,44.9133,-93.5031
+10/11/1987 23:59,otto,mo,us,fireball,60,38.3708,-90.5003
+10/11/1989 21:00,kewanee,il,us,sphere,180,41.2456,-89.9247
+10/11/1989 21:00,kewanee,il,us,sphere,300,41.2456,-89.9247
+10/11/1992 10:00,albuquerque,nm,us,sphere,900,35.0844,-106.6506
+10/11/1994 02:00,jackson,nj,us,triangle,300,39.7764,-74.8628
+10/11/1994 04:00,riverside,ca,us,chevron,4,33.9533,-117.3953
+10/11/1996 16:00,bismarck,nd,us,formation,0,46.8083,-100.7833
+10/11/1996 22:00,damascus,va,us,light,60,36.6336,-81.7839
+10/11/1998 02:15,montara,ca,us,other,3600,37.5422,-122.5150
+10/11/1998 14:05,vega baja (puerto rico),pr,us,cigar,120,18.4464,-66.3881
+10/11/1998 14:30,mount carmel,tn,us,light,10,36.5453,-82.6611
+10/11/1998 20:30,highland,in,us,sphere,0,39.7944,-87.3958
+10/11/1998 20:30,highland,in,us,sphere,14400,39.7944,-87.3958
+10/11/1998 22:40,bar harbor (bar island crossover),me,us,sphere,30,44.3875,-68.2044
+10/11/1998 22:45,elk grove,ca,us,fireball,4,38.4089,-121.3706
+10/11/1999 00:15,montgomery,al,us,light,180,32.3667,-86.3000
+10/11/1999 01:00,milton (canada),on,ca,triangle,0,46.3000,-63.2167
+10/11/1999 04:30,los angeles,ca,us,light,300,34.0522,-118.2428
+10/11/1999 07:40,three rivers,mi,us,oval,600,41.9439,-85.6325
+10/11/1999 09:10,canby,or,us,light,10,45.2631,-122.6914
+10/11/1999 18:00,parry sound (near) (canada),on,ca,disk,6,45.3333,-80.0333
+10/11/1999 20:15,portville,ny,us,oval,30,42.0386,-78.3411
+10/11/1999 20:15,portville,ny,us,oval,30,42.0386,-78.3411
+10/11/1999 20:15,portville,ny,us,oval,60,42.0386,-78.3411
+10/11/1999 20:15,portville,ny,us,oval,60,42.0386,-78.3411
+10/11/1999 20:35,kirbyville (due south of),mo,us,other,5400,36.6231,-93.1639
+10/11/1999 21:00,winnemucca,nv,us,cigar,2,40.9731,-117.7347
+10/11/1999 21:10,ashland,or,us,triangle,45,42.1947,-122.7083
+10/11/1999 21:30,augusta,ks,us,light,600,37.6867,-96.9764
+10/11/1999 21:30,montgomery,tx,us,light,3600,30.3881,-95.6961
+10/11/1999 21:45,eureka springs,ar,us,light,900,36.4011,-93.7378
+10/11/1999 22:30,addison (i-355 and us 20 (lake st.),il,us,disk,600,41.9317,-87.9889
+10/11/2000 20:00,watertown,ny,us,light,30,43.9747,-75.9111
+10/11/2000 22:00,elverta,ca,us,light,30,38.7139,-121.4617
+10/11/2000 23:30,whittier,ca,us,light,1500,33.9792,-118.0319
+10/11/2001 01:00,somerset,wi,us,light,10800,45.1244,-92.6733
+10/11/2001 02:15,fairbanks,ak,us,other,1800,64.8378,-147.7164
+10/11/2001 05:15,denver,co,us,light,900,39.7392,-104.9842
+10/11/2001 08:15,columbia,ms,us,teardrop,300,31.2517,-89.8375
+10/11/2001 20:35,grass valley,ca,us,triangle,60,39.2192,-121.0600
+10/11/2001 23:49,lima,oh,us,teardrop,300,40.7425,-84.1053
+10/11/2002 06:17,springfield,mo,us,fireball,6,37.2153,-93.2981
+10/11/2002 13:25,reno,nv,us,sphere,600,39.5297,-119.8128
+10/11/2002 16:15,randolph,ma,us,cylinder,300,42.1625,-71.0417
+10/11/2002 20:36,dallas,tx,us,fireball,3,32.7833,-96.8000
+10/11/2003 00:20,austin,mn,us,circle,5,43.6667,-92.9744
+10/11/2003 01:29,new york city (manhattan),ny,us,egg,120,40.7142,-74.0064
+10/11/2003 03:00,truckee,ca,us,sphere,3,39.3281,-120.1822
+10/11/2003 11:32,newaygo,mi,us,circle,40,43.4197,-85.8000
+10/11/2003 19:05,placerville,ca,us,light,600,38.7297,-120.7975
+10/11/2003 20:00,frederick,co,us,unknown,10,40.0992,-104.9367
+10/11/2003 20:30,bloomington,in,us,disk,180,39.1653,-86.5264
+10/11/2003 22:40,independence,mo,us,chevron,600,39.0911,-94.4153
+10/11/2004 01:00,honolulu,hi,us,triangle,3,21.3069,-157.8583
+10/11/2004 02:37,los angeles,ca,us,rectangle,20,34.0522,-118.2428
+10/11/2004 03:40,dallas,or,us,light,20,44.9194,-123.3158
+10/11/2004 04:15,pitman,nj,us,other,7200,39.7328,-75.1319
+10/11/2004 05:00,san jose,ca,us,light,15,37.3394,-121.8939
+10/11/2004 11:00,salinas,ca,us,formation,2700,36.6778,-121.6544
+10/11/2004 14:00,arroyo grande,ca,us,circle,60,35.1186,-120.5897
+10/11/2004 18:00,fresno,ca,us,rectangle,120,36.7478,-119.7714
+10/11/2004 22:29,laredo,tx,us,fireball,1351,27.5061,-99.5072
+10/11/2004 22:30,eastsound,wa,us,sphere,0,48.6969,-122.9042
+10/11/2004 23:00,lake worth,fl,us,formation,7200,26.6156,-80.0572
+10/11/2004 23:15,williamsville,ny,us,light,540,42.9639,-78.7381
+10/11/2005 00:00,holiday,fl,us,light,180,28.1875,-82.7397
+10/11/2005 03:00,eagan,mn,us,circle,7200,44.8042,-93.1667
+10/11/2005 16:36,lake point,ut,us,light,720,40.6808,-112.2622
+10/11/2005 18:45,peoria,az,us,light,5400,33.5806,-112.2367
+10/11/2005 19:00,buckeye,az,us,formation,1800,33.3703,-112.5831
+10/11/2005 19:00,casa grande,az,us,light,1800,32.8794,-111.7567
+10/11/2005 19:30,tempe,az,us,triangle,3,33.4147,-111.9086
+10/11/2005 19:45,mobile,al,us,light,1800,30.6942,-88.0431
+10/11/2005 21:00,little ferry,nj,us,oval,300,40.8528,-74.0425
+10/11/2005 21:00,wall lake,ia,us,light,10,42.2711,-95.0928
+10/11/2006 01:25,nashville,tn,us,disk,13,36.1658,-86.7844
+10/11/2006 11:29,lynnwood,wa,us,unknown,120,47.8211,-122.3139
+10/11/2006 19:00,monterey park,ca,us,fireball,120,34.0625,-118.1219
+10/11/2006 19:30,two harbors,mn,us,light,600,47.0228,-91.6706
+10/11/2006 20:45,pensacola,fl,us,diamond,3600,30.4211,-87.2169
+10/11/2006 21:00,milton,fl,us,light,900,30.6322,-87.0397
+10/11/2006 21:32,la crescenta,ca,us,circle,3,34.2242,-118.2392
+10/11/2006 22:00,enid,ok,us,light,60,36.3956,-97.8781
+10/11/2006 23:00,pampa,tx,us,triangle,60,35.5361,-100.9594
+NaT,rome,ny,us,oval,120,43.2128,-75.4561
+10/11/2007 04:40,melbourne,ky,us,oval,360,39.0297,-84.3664
+10/11/2007 10:10,carlton,or,us,cylinder,900,45.2944,-123.1753
+10/11/2007 16:00,clackamas,or,us,circle,900,45.4078,-122.5692
+10/11/2007 19:50,seattle,wa,us,triangle,10,47.6064,-122.3308
+10/11/2007 20:00,frankfort,il,us,sphere,0,41.4958,-87.8486
+10/11/2007 20:15,tega cay,sc,us,light,1800,35.0242,-81.0281
+10/11/2007 20:30,gulf shores,al,us,disk,1800,30.2458,-87.7008
+10/11/2008 02:35,monrovia,ca,us,unknown,0,34.1481,-117.9981
+10/11/2008 04:30,brownsville,tx,us,disk,3,25.9014,-97.4972
+10/11/2008 06:00,concord,ca,us,light,180,37.9781,-122.0300
+10/11/2008 13:00,salisbury,nc,us,sphere,20,35.6708,-80.4744
+10/11/2008 19:00,bridgeport,ct,us,circle,7200,41.1669,-73.2053
+10/11/2008 19:00,dover,md,us,sphere,7200,39.5122,-76.7697
+10/11/2008 19:00,riverside,ca,us,light,60,33.9533,-117.3953
+10/11/2008 19:30,naples,fl,us,triangle,30,26.1417,-81.7950
+10/11/2008 20:30,centerville,tx,us,light,900,31.2578,-95.9781
+10/11/2008 22:20,albuquerque,nm,us,fireball,120,35.0844,-106.6506
+10/11/2008 22:30,los angeles,ca,us,triangle,30,34.0522,-118.2428
+10/11/2009 02:45,deer park,ny,us,other,10800,40.7617,-73.3297
+10/11/2009 04:00,crisfield,md,us,light,600,37.9833,-75.8542
+10/11/2009 04:45,st. john&#39s (canada),nf,ca,flash,5,47.5500,-52.6667
+10/11/2009 09:45,plymouth,mi,us,triangle,20,42.3714,-83.4703
+10/11/2009 12:30,glendale,az,us,egg,1200,33.5386,-112.1853
+10/11/2009 18:00,louisville,ky,us,disk,120,38.2542,-85.7594
+10/11/2009 18:00,rowlett,tx,us,disk,0,32.9028,-96.5636
+10/11/2009 18:05,west palm beach,fl,us,oval,3,26.7053,-80.0367
+10/11/2009 19:00,north smithfield,ri,us,circle,15,41.9667,-71.5500
+10/11/2009 19:50,putnamville,in,us,flash,540,39.5742,-86.8653
+10/11/2009 21:55,madison,wi,us,light,180,43.0731,-89.4011
+10/11/2010 00:30,redondo beach,ca,us,other,1200,33.8492,-118.3875
+10/11/2010 04:50,albany,ny,us,oval,120,42.6525,-73.7567
+10/11/2010 06:20,west palm beach,fl,us,sphere,2400,26.7053,-80.0367
+10/11/2010 12:30,orangevale,ca,us,changing,2700,38.6786,-121.2247
+10/11/2010 19:40,cottage grove,mn,us,light,240,44.8278,-92.9436
+10/11/2010 20:50,glendora,ca,us,circle,60,34.1361,-117.8644
+10/11/2010 20:53,ramona,ca,us,triangle,5,33.0417,-116.8672
+10/11/2010 21:35,union city,ca,us,other,15,37.5958,-122.0181
+10/11/2011 03:15,omaha,il,us,chevron,120,37.8903,-88.3031
+10/11/2011 08:40,henderson,nv,us,other,180,36.0397,-114.9811
+10/11/2011 15:00,cedar city,ut,us,light,8,37.6775,-113.0611
+10/11/2011 19:40,des moines,ia,us,light,90,41.6006,-93.6089
+10/11/2011 19:42,new bedford,ma,us,circle,1800,41.6361,-70.9347
+10/11/2011 21:10,holden beach,nc,us,circle,30,33.9133,-78.3042
+10/11/2011 23:23,harrodsburg,ky,us,unknown,480,37.7622,-84.8433
+10/11/2012 01:00,worcester,ma,us,unknown,4,42.2625,-71.8028
+10/11/2012 02:45,watchung (was my perspective),nj,us,sphere,3600,40.6378,-74.4514
+10/11/2012 04:00,tewksbury,ma,us,light,2,42.6106,-71.2347
+10/11/2012 08:00,angola,in,us,cigar,7200,41.6347,-84.9994
+10/11/2012 14:06,yakima,wa,us,unknown,0,46.6022,-120.5047
+10/11/2012 19:30,arbutus,md,us,light,300,39.2544,-76.7003
+10/11/2012 19:30,forty fort,pa,us,fireball,720,41.2789,-75.8786
+10/11/2012 19:45,saratoga springs,ny,us,circle,300,43.0831,-73.7850
+10/11/2012 20:00,nanticoke,pa,us,diamond,60,41.2053,-76.0053
+10/11/2012 20:30,las cruces,nm,us,fireball,120,32.3122,-106.7778
+10/11/2012 20:42,ravensdale,wa,us,triangle,10,47.3525,-121.9825
+10/11/2012 21:00,levittown,pa,us,diamond,60,40.1550,-74.8292
+10/11/2012 21:01,phoenix,az,us,sphere,30,33.4483,-112.0733
+10/11/2012 22:15,blue island,il,us,circle,45,41.6572,-87.6800
+NaT,truth or consequences,nm,us,unknown,0,33.1283,-107.2522
+10/11/2013 01:00,saginaw,mi,us,chevron,4,43.4194,-83.9508
+10/11/2013 03:00,hamilton (canada),on,ca,cylinder,3600,43.2500,-79.8333
+10/11/2013 06:13,ankeny,ia,us,circle,120,41.7297,-93.6056
+10/11/2013 09:05,palm beach gardens,fl,us,light,15,26.8231,-80.1389
+10/11/2013 16:01,pickering (canada),on,ca,circle,300,43.8667,-79.0333
+10/11/2013 16:35,kalamazoo,mi,us,fireball,600,42.2917,-85.5872
+10/11/2013 19:00,lawrence,ks,us,unknown,240,38.9717,-95.2350
+10/11/2013 19:00,rittman,oh,us,light,0,40.9781,-81.7822
+10/11/2013 19:33,winterhaven,ca,us,light,0,32.7394,-114.6339
+10/11/2013 19:50,essex junction,vt,us,light,60,44.4906,-73.1114
+10/11/2013 20:00,beaverdam (canada),nb,ca,changing,0,54.2036,-110.3067
+10/11/2013 20:00,cincinnati,oh,us,circle,300,39.1619,-84.4569
+10/11/2013 20:00,cincinnati,oh,us,fireball,240,39.1619,-84.4569
+10/11/2013 20:00,naples,fl,us,light,7200,26.1417,-81.7950
+10/11/2013 20:00,saginaw,mi,us,unknown,0,43.4194,-83.9508
+10/11/2013 20:15,cincinnati,oh,us,fireball,60,39.1619,-84.4569
+10/11/2013 20:15,union,ky,us,fireball,300,38.9458,-84.6806
+10/11/2013 20:20,hubbardston,ma,us,fireball,60,42.4736,-72.0067
+10/11/2013 20:45,covington,ga,us,light,300,33.5967,-83.8603
+10/11/2013 21:00,drexel,oh,us,sphere,180,39.7464,-84.2867
+10/11/2013 21:00,fayetteville,ny,us,chevron,90,43.0297,-76.0047
+10/11/2013 22:00,jupiter,fl,us,light,900,26.9339,-80.0944
+10/11/2013 22:00,melbourne,fl,us,sphere,300,28.0833,-80.6083
+10/11/2013 22:08,dresser,wi,us,sphere,60,45.3561,-92.6333
+10/11/2013 22:10,lombard,il,us,formation,60,41.8800,-88.0078
+10/11/2013 22:18,windsor (canada),on,ca,light,300,45.5833,-72.0000
+10/11/2013 23:00,north canton,oh,us,fireball,10,40.8758,-81.4025
+10/11/2013 23:15,pinckney,mi,us,fireball,2,42.4567,-83.9464
+10/01/1950 11:00,pikeville,ky,us,disk,600,37.4792,-82.5189
+10/01/1952 12:00,kansas city,mo,us,disk,90,39.0997,-94.5783
+10/01/1954 19:00,flatwoods,wv,us,circle,60,38.7231,-80.6500
+10/01/1956 19:00,newport,nh,us,rectangle,300,43.3653,-72.1739
+10/01/1957 16:00,nelchina (near),ak,us,unknown,180,61.9919,-146.7686
+10/01/1957 20:30,martelle,ia,us,cigar,0,42.0217,-91.3597
+10/01/1957 21:00,paterson,nj,us,disk,10,40.9167,-74.1722
+10/01/1959 16:00,new york city (manhattan),ny,us,other,0,40.7142,-74.0064
+10/01/1959 19:00,jacksonville,il,us,unknown,60,39.7339,-90.2289
+10/01/1961 03:00,toledo,oh,us,sphere,180,41.6639,-83.5553
+10/01/1961 03:30,tulsa,ok,us,disk,120,36.1539,-95.9925
+10/01/1961 19:00,nashville,tn,us,disk,1800,36.1658,-86.7844
+10/01/1961 22:00,graham,nc,us,triangle,30,36.0689,-79.4008
+10/01/1965 06:40,biloxi,ms,us,other,900,30.3958,-88.8853
+10/01/1965 14:00,colonial heights,va,us,sphere,120,37.2439,-77.4106
+10/01/1965 21:00,dushore,pa,us,disk,300,41.5242,-76.4011
+10/01/1966 19:00,edmonton (30 mi. east of&#44 hwy 16 east) (canada),ab,ca,diamond,300,53.5500,-113.5000
+10/01/1966 20:00,buffalo,ny,us,light,240,42.8864,-78.8786
+10/01/1966 22:00,anacortes,wa,us,light,1200,48.5128,-122.6114
+10/01/1966 22:30,anamosa,ia,us,unknown,60,42.1083,-91.2850
+10/01/1966 23:00,corvallis,or,us,disk,120,44.5647,-123.2608
+10/01/1967 02:00,chaffee,ny,us,sphere,600,42.5681,-78.4792
+10/01/1967 13:00,greenville,il,us,circle,30,38.8922,-89.4131
+10/01/1967 20:00,minneapolis,mn,us,disk,10,44.9800,-93.2636
+10/01/1968 00:00,boston,ma,us,cigar,1200,42.3583,-71.0603
+10/01/1968 20:00,kennebunkport,me,us,circle,600,43.3617,-70.4772
+10/01/1969 16:00,san francisco,ca,us,oval,600,37.7750,-122.4183
+10/01/1970 01:00,kingston (canada),on,ca,sphere,180,44.2333,-76.4833
+10/01/1970 16:00,new york city (brooklyn),ny,us,disk,180,40.7142,-74.0064
+10/01/1970 17:30,bentonville,ar,us,other,14400,36.3728,-94.2086
+10/01/1970 19:00,tampa,fl,us,other,900,27.9472,-82.4586
+10/01/1970 21:00,new york city (brooklyn),ny,us,disk,300,40.7142,-74.0064
+10/01/1971 22:00,pasadena,ca,us,disk,180,34.1478,-118.1436
+10/01/1972 01:00,potwin,ks,us,unknown,10800,37.9389,-97.0194
+10/01/1972 04:00,denton,tx,us,unknown,600,33.2147,-97.1328
+10/01/1972 20:00,mosheim,tx,us,disk,1800,31.6261,-97.5997
+10/01/1972 23:00,monroe,wa,us,rectangle,900,47.8556,-121.9697
+NaT,sweet home,or,us,unknown,0,44.3978,-122.7350
+10/01/1973 01:00,montezuma,in,us,sphere,900,39.7928,-87.3708
+10/01/1973 15:00,virginia beach,va,us,disk,1800,36.8528,-75.9783
+10/01/1973 20:00,bloomington,in,us,light,1200,39.1653,-86.5264
+10/01/1973 21:00,roseburg,or,us,cylinder,7200,43.2167,-123.3406
+10/01/1973 21:30,beatty,nv,us,disk,7200,36.9086,-116.7583
+10/01/1973 21:30,hixson,tn,us,oval,37800,35.1406,-85.2328
+10/01/1973 22:45,valley city,oh,us,disk,300,41.2378,-81.9317
+10/01/1974 01:00,denton,tx,us,unknown,600,33.2147,-97.1328
+10/01/1974 18:00,weirton,wv,us,sphere,240,40.4189,-80.5897
+10/01/1974 20:00,deerwood,mn,us,unknown,2,46.4736,-93.8986
+10/01/1974 21:00,chester,nj,us,light,600,40.7842,-74.6972
+10/01/1975 22:00,maricopa,az,us,changing,1200,33.0581,-112.0469
+10/01/1976 07:00,hartville,oh,us,disk,120,40.9636,-81.3314
+10/01/1976 19:00,fairport,ny,us,disk,600,43.0986,-77.4422
+10/01/1976 21:00,thonotosassa,fl,us,disk,900,28.0611,-82.3025
+10/01/1977 19:00,fountain valley,ca,us,other,360,33.7092,-117.9528
+10/01/1977 22:00,ferndale,ca,us,other,60,40.5764,-124.2628
+10/01/1978 00:00,windsor,nc,us,cone,300,35.9983,-76.9464
+10/01/1978 20:00,lecompte,la,us,disk,300,31.0944,-92.4003
+10/01/1978 23:15,francesville,in,us,cylinder,900,40.9853,-86.8794
+10/01/1979 16:00,lomita,ca,us,disk,1200,33.7922,-118.3142
+10/01/1979 19:00,columbia,md,us,rectangle,120,39.2403,-76.8397
+10/01/1979 21:00,buffalo,ny,us,light,10,42.8864,-78.8786
+10/01/1979 21:00,olympia,wa,us,disk,7200,47.0381,-122.8994
+10/01/1979 21:00,pittsburgh,pa,us,disk,300,40.4406,-79.9961
+10/01/1979 23:00,cranbury,nj,us,light,240,40.3161,-74.5142
+10/01/1980 01:30,fremont,ca,us,other,30,37.5483,-121.9875
+10/01/1980 20:00,mountainboro,al,us,fireball,20,34.1469,-86.1306
+10/01/1980 21:00,shirleysburg,pa,us,formation,600,40.2978,-77.8744
+10/01/1980 22:00,jersey city,nj,us,cigar,180,40.7281,-74.0781
+10/01/1980 23:00,homer,la,us,disk,0,32.7917,-93.0556
+10/01/1981 20:00,hesperia,mi,us,oval,2400,43.5689,-86.0394
+10/01/1982 22:10,swartz creek,mi,us,fireball,240,42.9572,-83.8306
+10/01/1983 20:00,ayer,ma,us,unknown,20,42.5611,-71.5903
+10/01/1983 21:00,tarboro,nc,us,disk,180,35.8967,-77.5361
+10/01/1984 01:00,waldport,or,us,light,600,44.4269,-124.0675
+10/01/1984 20:00,chatsworth,ca,us,light,45,34.2572,-118.6003
+10/01/1984 21:00,acton,me,us,triangle,180,43.5342,-70.9103
+10/01/1985 00:00,brandon,fl,us,triangle,900,27.9375,-82.2861
+10/01/1985 05:30,holton,mi,us,light,240,43.4133,-86.0794
+10/01/1985 05:30,monroe,nc,us,sphere,300,34.9853,-80.5497
+10/01/1985 21:30,jefferson,oh,us,triangle,3600,41.7386,-80.7700
+10/01/1985 22:45,lawrence,ks,us,sphere,300,38.9717,-95.2350
+10/01/1986 01:00,klamath falls,or,us,circle,2700,42.2250,-121.7806
+10/01/1986 22:00,wheeling,wv,us,light,10,40.0639,-80.7211
+10/01/1987 19:00,victoria (canada),bc,ca,sphere,900,46.2167,-63.4833
+10/01/1987 20:00,roseburg (7 miles northwest of),or,us,oval,1800,43.2167,-123.3406
+10/01/1987 21:00,alstead,nh,us,fireball,1800,43.1489,-72.3611
+10/01/1987 23:00,louisburg,nc,us,triangle,180,36.0989,-78.3014
+10/01/1989 16:00,mackay,id,us,disk,180,43.9147,-113.6125
+10/01/1989 18:00,winchester (near),ky,us,oval,300,37.9900,-84.1797
+10/01/1989 20:00,jacksonville,il,us,circle,300,39.7339,-90.2289
+10/01/1989 20:00,pawling,ny,us,oval,300,41.5619,-73.6031
+10/01/1989 21:30,carmichael,ca,us,rectangle,10,38.6172,-121.3272
+10/01/1989 21:30,orono,me,us,disk,20,44.8831,-68.6725
+10/01/1990 17:00,pateros,wa,us,oval,300,48.0511,-119.9022
+10/01/1990 20:00,san pedro,ca,us,light,120,33.7358,-118.2914
+10/01/1990 22:15,jamestown,ny,us,light,1200,42.0969,-79.2356
+10/01/1991 14:45,easley,sc,us,other,900,34.8297,-82.6017
+10/01/1991 17:00,wilmington,ca,us,circle,900,33.7800,-118.2617
+10/01/1991 18:00,maryville,tn,us,cigar,300,35.7564,-83.9706
+10/01/1991 18:30,little rock,ar,us,triangle,300,34.7464,-92.2894
+10/01/1991 20:30,mckenzie,tn,us,disk,900,36.1325,-88.5186
+10/01/1991 21:30,las vegas,nv,us,cigar,5,36.1750,-115.1364
+10/01/1991 22:00,lafayette,ga,us,other,900,34.7047,-85.2819
+10/01/1992 17:30,dublin (near warner robins),ga,us,triangle,1200,32.5403,-82.9039
+10/01/1992 18:00,springfield,mo,us,egg,90,37.2153,-93.2981
+10/01/1992 19:00,longview,tx,us,unknown,20,32.5006,-94.7403
+10/01/1993 02:00,tempe,az,us,triangle,900,33.4147,-111.9086
+10/01/1993 20:00,delaware,oh,us,light,7200,40.2986,-83.0681
+10/01/1993 20:00,pryor,mt,us,light,1800,45.4297,-108.5325
+10/01/1994 11:30,pawnee,ok,us,triangle,1200,36.3378,-96.8036
+10/01/1994 13:13,new york city,ny,us,disk,15,40.7142,-74.0064
+10/01/1994 20:00,chicopee,ma,us,changing,300,42.1486,-72.6083
+10/01/1994 20:00,santa barbara,ca,us,triangle,3,34.4208,-119.6972
+10/01/1994 21:00,warsaw,mo,us,cigar,600,38.2431,-93.3817
+10/01/1994 23:00,las vegas,nv,us,circle,5,36.1750,-115.1364
+10/01/1994 23:30,fredericksburg,pa,us,disk,300,40.4436,-76.4286
+10/01/1995 17:00,ashland,ky,us,disk,300,38.4783,-82.6381
+10/01/1995 18:30,williamsburg,pa,us,rectangle,600,40.4619,-78.2000
+10/01/1995 22:00,tinley park,il,us,other,20,41.5733,-87.7844
+10/01/1995 22:00,wantagh,ny,us,triangle,60,40.6836,-73.5106
+10/01/1995 23:00,dover,nh,us,triangle,600,43.1978,-70.8742
+10/01/1996 01:00,west houston (greenridge @ westiemer rd.; near galleria),tx,us,formation,30,29.7631,-95.3631
+10/01/1996 05:30,bainbridge,oh,us,triangle,180,39.2275,-83.2706
+10/01/1996 08:00,new york city (manhattan),ny,us,oval,300,40.7142,-74.0064
+10/01/1996 17:00,cupertino,ca,us,sphere,600,37.3231,-122.0311
+10/01/1996 18:00,safford,az,us,sphere,30,32.8339,-109.7069
+10/01/1996 22:30,the woodlands,tx,us,fireball,180,30.1578,-95.4892
+10/01/1997 00:00,bemidji,mn,us,triangle,600,47.4736,-94.8800
+10/01/1997 01:20,garland,tx,us,rectangle,40,32.9125,-96.6386
+10/01/1997 03:00,jefferson,ny,us,other,300,42.4811,-74.6108
+10/01/1997 09:00,charlotte,nc,us,cigar,120,35.2269,-80.8433
+10/01/1997 19:00,green bay,wi,us,light,1200,44.5192,-88.0197
+10/01/1997 19:00,pelzer,sc,us,triangle,180,34.6422,-82.4561
+10/01/1997 21:00,hyannis,ma,us,triangle,60,41.6528,-70.2833
+10/01/1997 21:30,bourbonnais,il,us,triangle,60,41.1417,-87.8750
+10/01/1997 21:30,oakland,or,us,light,60,43.4222,-123.2972
+10/01/1997 21:55,martinsville,va,us,other,300,36.6914,-79.8728
+10/01/1997 22:00,summerville,sc,us,triangle,1200,33.0183,-80.1758
+10/01/1997 23:15,lakeland,fl,us,light,60,28.0392,-81.9500
+10/01/1998 00:00,logan,ut,us,triangle,120,41.7356,-111.8336
+10/01/1998 00:10,portland,or,us,light,5,45.5236,-122.6750
+10/01/1998 01:30,st. paul,or,us,fireball,5,45.2114,-122.9756
+10/01/1998 02:00,nisqually,wa,us,disk,180,47.0567,-122.7000
+10/01/1998 04:30,rio rancho,nm,us,fireball,120,35.2333,-106.6639
+10/01/1998 05:30,bayfield,co,us,light,1800,37.2256,-107.5975
+10/01/1998 08:00,chicora,pa,us,disk,0,40.9481,-79.7431
+10/01/1998 10:00,san francisco,ca,us,sphere,420,37.7750,-122.4183
+10/01/1998 13:30,elgin,il,us,disk,1200,42.0372,-88.2811
+10/01/1998 16:00,del mar,ca,us,fireball,4,32.9594,-117.2644
+10/01/1998 18:50,la jolla (over),ca,us,fireball,7,32.8472,-117.2733
+10/01/1998 18:56,manchester,nh,us,oval,120,42.9956,-71.4553
+10/01/1998 21:00,clarinda,ia,us,triangle,60,40.7419,-95.0381
+10/01/1998 21:15,ipava,il,us,triangle,900,40.3514,-90.3244
+10/01/1998 22:30,moundsville,wv,us,triangle,0,39.9203,-80.7433
+10/01/1998 23:10,mosinee,wi,us,other,300,44.7931,-89.7031
+10/01/1999 00:30,san antonio,tx,us,fireball,30,29.4239,-98.4933
+10/01/1999 01:00,oak brook,il,us,light,60,41.8328,-87.9289
+10/01/1999 04:00,portland,or,us,light,25,45.5236,-122.6750
+10/01/1999 04:40,elyria,oh,us,triangle,300,41.3683,-82.1078
+10/01/1999 17:00,new york city (manhattan),ny,us,unknown,5,40.7142,-74.0064
+10/01/1999 18:12,norman,ok,us,cigar,120,35.2225,-97.4392
+10/01/1999 19:00,las vegas,nv,us,light,15,36.1750,-115.1364
+10/01/1999 20:00,miami,fl,us,unknown,25,25.7739,-80.1939
+10/01/1999 22:05,independence,mo,us,chevron,15,39.0911,-94.4153
+10/01/2000 01:00,vaughn,wa,us,formation,540,47.3444,-122.7619
+10/01/2000 01:30,sturgis,mi,us,disk,600,41.7992,-85.4192
+10/01/2000 09:00,markham (canada),on,ca,cigar,600,43.8667,-79.2667
+10/01/2000 14:00,madera,ca,us,light,120,36.9614,-120.0597
+10/01/2000 18:00,stockton,ca,us,sphere,180,37.9578,-121.2897
+10/01/2000 19:40,chandler,az,us,cigar,20,33.3061,-111.8406
+10/01/2000 20:00,belmont,ca,us,unknown,15,37.5203,-122.2747
+10/01/2000 20:00,prineville,or,us,unknown,3600,44.3000,-120.8333
+10/01/2000 20:00,wheaton,md,us,triangle,300,39.0397,-77.0556
+10/01/2000 20:45,albuquerque,nm,us,triangle,0,35.0844,-106.6506
+10/01/2000 21:00,orange park,fl,us,other,10,30.1658,-81.7067
+10/01/2000 21:30,colorado springs,co,us,light,300,38.8339,-104.8208
+10/01/2000 21:30,maryville,mo,us,light,30,40.3461,-94.8722
+10/01/2000 22:00,jackson,tn,us,triangle,120,35.6144,-88.8139
+10/01/2000 23:15,jones beach,ny,us,diamond,900,42.9047,-76.3944
+10/01/2001 19:00,kansas city,mo,us,light,900,39.0997,-94.5783
+10/01/2001 20:30,houghton lake,mi,us,triangle,300,44.3147,-84.7647
+10/01/2001 20:35,greene,me,us,oval,10,44.1897,-70.1408
+10/01/2001 21:00,lafayette,ny,us,changing,180,42.8922,-76.1056
+10/01/2001 22:00,lynden,wa,us,light,30,48.9467,-122.4508
+10/01/2001 22:30,albany,ny,us,flash,2,42.6525,-73.7567
+10/01/2001 22:30,new york city (staten island),ny,us,triangle,0,40.7142,-74.0064
+10/01/2002 00:30,courtland,va,us,circle,1,36.7161,-77.0683
+10/01/2002 02:00,nebraska city,ne,us,teardrop,0,40.6767,-95.8589
+10/01/2002 03:00,oakland,ca,us,oval,420,37.8044,-122.2697
+10/01/2002 05:30,everson,wa,us,other,5,48.9203,-122.3414
+10/01/2002 05:30,port townsend,wa,us,fireball,10,48.1172,-122.7592
+10/01/2002 05:30,snohomish,wa,us,sphere,3,47.9131,-122.0969
+10/01/2002 05:30,sumner,wa,us,circle,330,47.2033,-122.2392
+10/01/2002 05:35,pueblo,co,us,triangle,15,38.2544,-104.6086
+10/01/2002 05:35,seattle,wa,us,unknown,1,47.6064,-122.3308
+10/01/2002 05:42,seattle,wa,us,teardrop,3,47.6064,-122.3308
+10/01/2002 05:43,seattle,wa,us,other,2,47.6064,-122.3308
+10/01/2002 05:45,kent,wa,us,unknown,10,47.3811,-122.2336
+10/01/2002 05:45,lynnwood,wa,us,fireball,5,47.8211,-122.3139
+10/01/2002 05:45,rainier,wa,us,light,240,46.8883,-122.6872
+10/01/2002 06:30,monroe,wi,us,light,1200,42.6011,-89.6383
+10/01/2002 07:30,kingston,ny,us,cigar,600,41.9269,-73.9978
+10/01/2002 08:30,santa fe,nm,us,egg,0,35.6869,-105.9372
+10/01/2002 09:00,germantown,md,us,cigar,180,39.1731,-77.2719
+10/01/2002 14:00,winslow,az,us,other,1800,35.0242,-110.6967
+10/01/2002 15:00,athol,id,us,teardrop,300,47.9481,-116.7069
+10/01/2002 16:00,grants,nm,us,fireball,10,35.1472,-107.8508
+10/01/2002 17:56,port hadlock,wa,us,fireball,5,48.0319,-122.7569
+10/01/2002 18:00,orlando,fl,us,other,4,28.5381,-81.3794
+10/01/2002 19:20,new york city (staten island),ny,us,egg,300,40.7142,-74.0064
+10/01/2002 19:50,new york city (staten island),ny,us,light,900,40.7142,-74.0064
+10/01/2002 20:30,castro valley,ca,us,other,1200,37.6942,-122.0853
+10/01/2002 22:00,edmonds,wa,us,unknown,60,47.8108,-122.3761
+10/01/2002 22:30,riverton,ut,us,unknown,120,40.5219,-111.9383
+10/01/2002 23:20,new york city,ny,us,changing,180,40.7142,-74.0064
+10/01/2003 00:00,saco,me,us,circle,120,43.5008,-70.4433
+10/01/2003 00:20,redmond,wa,us,light,2,47.6742,-122.1203
+10/01/2003 02:00,peterborough (canada),on,ca,unknown,30,44.3000,-78.3333
+10/01/2003 05:40,long beach (sports arena),ca,us,other,600,33.7669,-118.1883
+10/01/2003 16:00,hartland,mi,us,unknown,120,42.6567,-83.7531
+10/01/2003 18:00,kennesaw,ga,us,triangle,0,34.0233,-84.6156
+10/01/2003 20:05,san diego,ca,us,unknown,240,32.7153,-117.1564
+10/01/2003 21:00,bellevue,wa,us,light,10,47.6106,-122.1994
+10/01/2003 21:00,rye,co,us,sphere,2,37.9236,-104.9297
+10/01/2003 21:30,oologah,ok,us,other,600,36.4469,-95.7081
+10/01/2003 22:00,granville,ma,us,circle,5,42.0667,-72.8619
+10/01/2003 22:30,quesnel (canada),bc,ca,other,120,52.9833,-122.4833
+10/01/2003 23:00,circleville,oh,us,light,600,39.6006,-82.9461
+10/01/2004 04:32,mt. morris,ny,us,circle,0,42.7256,-77.8744
+10/01/2004 16:00,eureka,ca,us,unknown,720,40.8022,-124.1625
+10/01/2004 17:00,las vegas,nv,us,cylinder,2,36.1750,-115.1364
+10/01/2004 20:00,albuquerque,nm,us,oval,3600,35.0844,-106.6506
+10/01/2004 20:27,richmond,va,us,triangle,300,37.5536,-77.4606
+10/01/2004 20:50,tucson,az,us,unknown,1,32.2217,-110.9258
+10/01/2004 23:00,sidney,mi,us,sphere,14400,43.2500,-85.1331
+10/01/2004 23:15,saskatoon (canada),sk,ca,circle,7,52.1333,-106.6667
+10/01/2005 00:00,harrisburg,mo,us,light,2400,39.1269,-92.4399
+10/01/2005 00:00,oak forest,il,us,circle,3600,41.6028,-87.7439
+10/01/2005 00:30,oak forest,il,us,light,3600,41.6028,-87.7439
+10/01/2005 00:40,orland park,il,us,diamond,2700,41.6303,-87.8539
+10/01/2005 00:53,tinley park,il,us,circle,1200,41.5733,-87.7844
+10/01/2005 00:57,orland park,il,us,light,420,41.6303,-87.8539
+10/01/2005 00:57,orland park,il,us,light,6,41.6303,-87.8539
+10/01/2005 01:00,midlothian,il,us,light,1500,41.6253,-87.7175
+10/01/2005 01:00,oak forest,il,us,changing,600,41.6028,-87.7439
+10/01/2005 01:00,oak forest,il,us,light,600,41.6028,-87.7439
+10/01/2005 01:00,tinley park,il,us,circle,600,41.5733,-87.7844
+10/01/2005 01:00,tinley park,il,us,circle,600,41.5733,-87.7844
+10/01/2005 01:00,tinley park,il,us,formation,1200,41.5733,-87.7844
+10/01/2005 01:00,tinley park,il,us,triangle,0,41.5733,-87.7844
+10/01/2005 01:00,tinley park,il,us,triangle,0,41.5733,-87.7844
+10/01/2005 01:00,tinley park,il,us,triangle,1800,41.5733,-87.7844
+10/01/2005 01:00,tinley park,il,us,triangle,900,41.5733,-87.7844
+10/01/2005 01:03,oak forest,il,us,light,1200,41.6028,-87.7439
+10/01/2005 01:08,evergreen park,il,us,light,480,41.7206,-87.7017
+10/01/2005 01:10,alsip,il,us,light,480,41.6689,-87.7386
+10/01/2005 01:10,crestwood,il,us,light,300,41.6611,-87.7525
+10/01/2005 01:10,cuyahoga falls,oh,us,other,7,41.1339,-81.4847
+10/01/2005 01:10,hillside,il,us,changing,7,41.8778,-87.9028
+10/01/2005 01:10,manhattan,il,us,triangle,10,41.4225,-87.9858
+10/01/2005 01:10,oak forest,il,us,cylinder,7200,41.6028,-87.7439
+10/01/2005 01:10,oak forest,il,us,light,1800,41.6028,-87.7439
+10/01/2005 01:10,oak forest,il,us,unknown,60,41.6028,-87.7439
+10/01/2005 01:10,tinley park,il,us,triangle,0,41.5733,-87.7844
+10/01/2005 03:00,posen,il,us,light,1200,41.6317,-87.6814
+10/01/2005 06:30,greenup,ky,us,circle,30,38.5731,-82.8303
+10/01/2005 08:22,homestead,fl,us,light,300,25.4683,-80.4778
+10/01/2005 08:30,vanderbilt,mi,us,circle,0,45.1428,-84.6603
+10/01/2005 09:30,albuquerque,nm,us,disk,600,35.0844,-106.6506
+10/01/2005 12:00,lake worth,fl,us,sphere,180,26.6156,-80.0572
+10/01/2005 15:00,phoenix,az,us,oval,180,33.4483,-112.0733
+10/01/2005 17:00,los angeles,ca,us,formation,1500,34.0522,-118.2428
+10/01/2005 18:00,west palm beach,fl,us,teardrop,60,26.7053,-80.0367
+10/01/2005 19:58,rogers,mn,us,triangle,1020,45.1889,-93.5528
+10/01/2005 20:05,liberty hill,tx,us,light,900,30.6647,-97.9222
+10/01/2005 20:05,san jose,ca,us,chevron,600,37.3394,-121.8939
+10/01/2005 20:08,hamilton (canada),on,ca,light,15,43.2500,-79.8333
+10/01/2005 20:30,napa,ca,us,unknown,1200,38.2972,-122.2844
+10/01/2005 21:30,laurelville,oh,us,unknown,300,39.4733,-82.7394
+10/01/2005 21:30,oklahoma city,ok,us,light,2700,35.4675,-97.5161
+10/01/2005 22:00,central lake,mi,us,unknown,1500,45.0700,-85.2644
+10/01/2005 23:00,tinley park,il,us,light,120,41.5733,-87.7844
+10/01/2006 01:00,jones,mi,us,oval,5,41.9025,-85.7994
+10/01/2006 01:00,rio rancho,nm,us,oval,3,35.2333,-106.6639
+10/01/2006 01:30,irving,tx,us,circle,2,32.8139,-96.9486
+10/01/2006 02:20,montebello,ca,us,other,300,34.0094,-118.1044
+10/01/2006 12:00,flemington,nj,us,cross,0,40.5122,-74.8597
+10/01/2006 12:30,new york city (bronx),ny,us,rectangle,120,40.7142,-74.0064
+10/01/2006 14:00,mt. pleasant,sc,us,circle,240,32.7939,-79.8628
+10/01/2006 14:00,plainfield,il,us,oval,300,41.6269,-88.2039
+10/01/2006 15:05,thompson,mo,us,cigar,3600,39.1886,-91.9828
+10/01/2006 17:00,algona,ia,us,unknown,3600,43.0700,-94.2328
+10/01/2006 17:00,onion creek,wa,us,chevron,60,48.7839,-117.8106
+10/01/2006 19:20,monkton,md,us,oval,480,39.5786,-76.6158
+10/01/2006 19:45,las vegas,nv,us,fireball,600,36.1750,-115.1364
+10/01/2006 20:18,fall city,wa,us,fireball,2,47.5675,-121.8875
+10/01/2006 20:19,orchards,wa,us,fireball,1,45.6667,-122.5597
+10/01/2006 20:24,pullman,wa,us,circle,1,46.7314,-117.1786
+10/01/2006 20:34,seattle,wa,us,teardrop,12,47.6064,-122.3308
+10/01/2006 21:00,orchard park,ny,us,unknown,37800,42.7675,-78.7442
+10/01/2006 21:00,seattle,wa,us,light,20,47.6064,-122.3308
+10/01/2006 21:15,roseville,ca,us,sphere,600,38.7522,-121.2869
+10/01/2006 22:00,santa fe,nm,us,fireball,20,35.6869,-105.9372
+10/01/2006 22:18,winslow,az,us,fireball,15,35.0242,-110.6967
+10/01/2006 23:00,glorieta,nm,us,changing,2,35.5831,-105.7694
+10/01/2006 23:00,silver city,nm,us,light,180,32.7700,-108.2797
+10/01/2006 23:00,wide ruins,az,us,cylinder,120,35.4194,-109.4958
+10/01/2006 23:15,boulder,co,us,oval,30,40.0150,-105.2700
+10/01/2006 23:15,canon city,co,us,light,240,38.4000,-105.2167
+10/01/2006 23:15,denver,co,us,circle,30,39.7392,-104.9842
+10/01/2006 23:15,fairplay,co,us,unknown,30,39.2247,-106.0014
+10/01/2006 23:15,hartsel,co,us,fireball,60,39.0217,-105.7953
+10/01/2006 23:15,mccoy,co,us,light,75,39.9161,-106.7250
+10/01/2006 23:15,pueblo west,co,us,sphere,10,38.3500,-104.7222
+10/01/2006 23:15,santa fe,nm,us,light,45,35.6869,-105.9372
+10/01/2006 23:15,taos,nm,us,formation,150,36.4072,-105.5725
+10/01/2006 23:17,cascade,co,us,circle,15,38.8967,-104.9717
+10/01/2006 23:20,boulder (foothills of),co,us,sphere,6,40.0150,-105.2700
+10/01/2006 23:20,cripple creek,co,us,fireball,15,38.7467,-105.1778
+10/01/2006 23:20,raton,nm,us,formation,30,36.9033,-104.4386
+10/01/2006 23:20,raton,nm,us,formation,60,36.9033,-104.4386
+10/01/2006 23:20,sedalia,co,us,formation,30,39.4369,-104.9592
+10/01/2006 23:20,silverthorne,co,us,light,10,39.6375,-106.0614
+10/01/2006 23:27,monument,co,us,other,10,39.0917,-104.8722
+10/01/2006 23:30,pueblo west,co,us,light,300,38.3500,-104.7222
+10/01/2006 23:32,farmington,nm,us,light,14,36.7281,-108.2181
+10/01/2006 23:40,san antonio,nm,us,circle,20,33.9178,-106.8653
+10/01/2007 00:00,escondido,ca,us,diamond,120,33.1192,-117.0856
+10/01/2007 00:00,los angeles,ca,us,flash,900,34.0522,-118.2428
+10/01/2007 00:02,dayton,oh,us,oval,5,39.7589,-84.1917
+10/01/2007 01:00,barrie (canada),on,ca,circle,60,44.3833,-79.7000
+10/01/2007 04:00,gadsden,al,us,unknown,0,34.0142,-86.0067
+10/01/2007 09:50,charlotte,nc,us,light,1200,35.2269,-80.8433
+10/01/2007 13:00,litchfield,il,us,oval,2,39.1753,-89.6542
+10/01/2007 17:10,granville,oh,us,sphere,120,40.0681,-82.5197
+10/01/2007 19:00,beulaville,nc,us,triangle,5,34.9236,-77.7742
+10/01/2007 19:30,youngstown,fl,us,unknown,0,30.3642,-85.4383
+10/01/2007 20:00,ewa beach,hi,us,light,600,21.3156,-158.0072
+10/01/2007 20:00,north battleford (canada),sk,ca,disk,60,52.7667,-108.2833
+10/01/2007 20:00,tryon,nc,us,light,10,35.2081,-82.2386
+10/01/2007 21:00,ballinger,tx,us,unknown,300,31.7381,-99.9469
+10/01/2007 21:00,deer park,ny,us,other,240,40.7617,-73.3297
+10/01/2007 21:00,sanford,fl,us,triangle,120,28.8003,-81.2733
+10/01/2007 22:30,dublin,ca,us,flash,2,37.7022,-121.9347
+10/01/2008 00:00,conway,ar,us,triangle,600,35.0886,-92.4419
+10/01/2008 01:00,bryan,oh,us,cylinder,120,41.4747,-84.5525
+10/01/2008 01:00,merrick,ny,us,disk,5,40.6628,-73.5519
+10/01/2008 05:00,huntington,wv,us,cylinder,600,38.4192,-82.4453
+10/01/2008 06:20,lynchburg,va,us,light,30,37.4136,-79.1425
+10/01/2008 06:30,iuka,ms,us,oval,0,34.8117,-88.1900
+10/01/2008 08:00,hope mills,nc,us,fireball,0,34.9703,-78.9456
+10/01/2008 09:00,lanagan,mo,us,light,900,36.6081,-94.4475
+10/01/2008 09:45,dallas,tx,us,oval,300,32.7833,-96.8000
+10/01/2008 11:00,pell city,al,us,cigar,300,33.5861,-86.2861
+10/01/2008 19:00,warwick,ri,us,circle,600,41.7000,-71.4167
+10/01/2008 19:12,bonham,tx,us,egg,300,33.5772,-96.1781
+10/01/2008 19:40,delta (canada),bc,ca,disk,5,50.1833,-98.3167
+10/01/2008 20:00,cabazon,ca,us,light,1200,33.9175,-116.7864
+10/01/2008 20:00,glenrock,wy,us,unknown,1200,42.8614,-105.8717
+10/01/2008 20:00,marysville,wa,us,circle,1800,48.0519,-122.1758
+10/01/2008 20:00,texas city,tx,us,other,2,29.3836,-94.9025
+10/01/2008 20:00,wilson,nc,us,circle,600,35.7211,-77.9158
+10/01/2008 20:03,idaho falls,id,us,light,15,43.4667,-112.0333
+10/01/2008 20:45,leavenworth,wa,us,light,120,47.5964,-120.6603
+10/01/2008 20:45,renton,wa,us,light,600,47.4831,-122.2158
+10/01/2008 21:00,wellington,al,us,light,120,33.8225,-85.8928
+10/01/2008 21:30,lacey,wa,us,unknown,4,47.0344,-122.8219
+10/01/2008 22:00,garrett,in,us,triangle,4,41.3494,-85.1356
+10/01/2008 22:30,arlington,tx,us,sphere,600,32.7356,-97.1078
+10/01/2008 22:45,sunnyvale,ca,us,other,20,37.3689,-122.0353
+10/01/2008 22:55,kingsport,tn,us,triangle,3,36.5483,-82.5619
+10/01/2009 04:30,hogansville,ga,us,disk,10,33.1731,-84.9150
+10/01/2009 08:00,pawtucket,ri,us,cylinder,600,41.8786,-71.3831
+10/01/2009 09:00,canton,mi,us,triangle,3600,42.3086,-83.4822
+10/01/2009 15:38,whitefield,ok,us,light,2,35.2525,-95.2372
+10/01/2009 18:00,memphis,tn,us,oval,300,35.1494,-90.0489
+10/01/2009 20:00,providence,ri,us,disk,300,41.8239,-71.4133
+10/01/2009 20:30,beaver,oh,us,light,10800,39.0306,-82.8244
+10/01/2009 22:30,belmont,ms,us,triangle,120,34.5097,-88.2092
+10/01/2009 23:00,belleview,fl,us,circle,600,29.0550,-82.0625
+10/01/2009 23:00,fairfield,ct,us,light,20,41.1411,-73.2642
+NaT,redding,ca,us,other,0,40.5867,-122.3906
+10/01/2010 00:00,delray beach,fl,us,other,180,26.4611,-80.0731
+10/01/2010 06:25,aripeka,fl,us,light,8,28.4319,-82.6644
+10/01/2010 07:00,chico,ca,us,unknown,0,39.7286,-121.8364
+10/01/2010 08:30,middleton,wi,us,other,180,43.0972,-89.5042
+10/01/2010 09:30,spotsylvania,va,us,circle,1800,38.2008,-77.5894
+10/01/2010 10:05,seattle,wa,us,unknown,0,47.6064,-122.3308
+10/01/2010 12:16,waxahachie,tx,us,disk,1,32.3864,-96.8481
+10/01/2010 16:30,dallas,tx,us,other,15,32.7833,-96.8000
+10/01/2010 18:30,strasburg,va,us,cigar,300,38.9886,-78.3589
+10/01/2010 19:45,fayetteville,nc,us,light,300,35.0525,-78.8786
+10/01/2010 20:45,brunswick,oh,us,triangle,600,41.2381,-81.8419
+10/01/2010 21:00,arlington,wa,us,oval,300,48.1989,-122.1239
+10/01/2010 21:00,saskatoon (canada),sk,ca,changing,60,52.1333,-106.6667
+10/01/2010 23:00,corona,ca,us,unknown,30,33.8753,-117.5656
+10/01/2010 23:00,rock spring,ga,us,light,300,34.8242,-85.2428
+10/01/2011 00:00,vancouver,wa,us,light,0,45.6389,-122.6603
+10/01/2011 00:53,thunder bay (canada),on,ca,other,5,48.4000,-89.2333
+10/01/2011 06:00,san benito,tx,us,triangle,10,26.1322,-97.6308
+10/01/2011 09:30,brownwood,tx,us,unknown,1500,31.7092,-98.9908
+10/01/2011 13:00,clinton,ms,us,circle,300,32.3414,-90.3217
+10/01/2011 15:00,boise,id,us,unknown,0,43.6136,-116.2025
+10/01/2011 16:00,goshen,ca,us,oval,60,36.3511,-119.4192
+10/01/2011 20:00,jacksonville,fl,us,unknown,0,30.3319,-81.6558
+10/01/2011 20:00,linn (outside of),mo,us,unknown,5,38.4858,-91.8503
+10/01/2011 20:00,wilmington,nc,us,triangle,300,34.2256,-77.9450
+10/01/2011 20:15,cincinnati,oh,us,sphere,900,39.1619,-84.4569
+10/01/2011 20:30,palatine,il,us,light,90,42.1103,-88.0342
+10/01/2011 21:00,hamburg,ca,us,light,300,41.7831,-123.0592
+10/01/2011 21:20,carlsbad,ca,us,fireball,10,33.1581,-117.3497
+10/01/2011 21:43,kansas city,mo,us,fireball,45,39.0997,-94.5783
+10/01/2011 21:43,kansas city,mo,us,fireball,60,39.0997,-94.5783
+10/01/2011 21:50,tenino,wa,us,light,180,46.8569,-122.8517
+10/01/2011 22:00,mccomb,ms,us,rectangle,10,31.2436,-90.4531
+10/01/2011 23:00,fond du lac (crooked lake),wi,us,light,0,43.7731,-88.4469
+10/01/2011 23:11,conyers,ga,us,light,3600,33.6675,-84.0178
+10/01/2011 23:57,homestead,fl,us,formation,35,25.4683,-80.4778
+10/01/2012 01:00,richmond,tx,us,unknown,300,29.5819,-95.7606
+10/01/2012 01:50,colorado springs,co,us,light,9,38.8339,-104.8208
+10/01/2012 02:00,surprise,az,us,light,9,33.6306,-112.3325
+10/01/2012 06:30,sarasota,fl,us,formation,10,27.3361,-82.5308
+10/01/2012 11:20,welland (canada),on,ca,fireball,2700,42.9833,-79.2500
+10/01/2012 17:30,port hueneme,ca,us,light,1800,34.1478,-119.1942
+10/01/2012 18:02,leland,nc,us,oval,0,34.2561,-78.0450
+10/01/2012 19:30,hinsdale,il,us,fireball,180,41.8008,-87.9369
+10/01/2012 20:00,eugene,or,us,light,180,44.0522,-123.0856
+10/01/2012 20:00,fontana,ca,us,fireball,900,34.0922,-117.4342
+10/01/2012 20:00,racine,wi,us,other,900,42.7261,-87.7828
+10/01/2012 20:00,sunfield,mi,us,unknown,300,42.7622,-84.9925
+10/01/2012 20:10,capitola,ca,us,light,60,36.9753,-121.9522
+10/01/2012 22:30,sauk centre,mn,us,triangle,2700,45.7375,-94.9522
+10/01/2012 23:00,huntington,in,us,fireball,180,40.8831,-85.4975
+NaT,novi,mi,us,triangle,300,42.4806,-83.4756
+10/01/2013 03:00,colorado springs,co,us,triangle,5400,38.8339,-104.8208
+10/01/2013 06:35,bel air,md,us,flash,4,39.5358,-76.3486
+10/01/2013 07:40,bakersfield,ca,us,circle,30,35.3733,-119.0178
+10/01/2013 09:43,muncie,in,us,triangle,7200,40.1933,-85.3864
+10/01/2013 12:30,pittsburgh,pa,us,unknown,60,40.4406,-79.9961
+10/01/2013 12:30,pittsburgh,pa,us,unknown,60,40.4406,-79.9961
+10/01/2013 18:30,boulder,co,us,light,240,40.0150,-105.2700
+10/01/2013 19:15,thibodaux,la,us,unknown,300,29.7956,-90.8228
+10/01/2013 19:20,webster,ny,us,sphere,1800,43.2122,-77.4303
+10/01/2013 19:25,southwest ranches,fl,us,light,300,26.0583,-80.3375
+10/01/2013 20:00,tampa,fl,us,light,3600,27.9472,-82.4586
+10/01/2013 21:30,cumming,ga,us,fireball,1200,34.2072,-84.1403
+10/01/2013 21:40,sneedville,tn,us,circle,90,36.5297,-83.2175
+10/01/2013 22:10,white lake,mi,us,unknown,900,42.6917,-83.5542
+10/01/2013 22:30,waterloo,ia,us,triangle,60,42.4928,-92.3428
+10/01/2013 22:45,middle island (long island),ny,us,fireball,1200,40.8842,-72.9378
+10/01/2013 23:30,arlington,wi,us,unknown,600,43.3381,-89.3803
+10/12/1965 12:00,pittsburgh,pa,us,circle,120,40.4406,-79.9961
+10/12/1965 13:00,pittsburgh,pa,us,disk,60,40.4406,-79.9961
+10/12/1971 22:00,menands (albany),ny,us,chevron,180,42.6919,-73.7250
+10/12/1973 19:00,birmingham (just south of),al,us,disk,900,33.5206,-86.8025
+10/12/1976 23:00,emporia,ks,us,disk,300,38.4039,-96.1814
+10/12/1978 03:30,kannapolis,nc,us,disk,0,35.4872,-80.6219
+10/12/1978 21:00,dyersburg,tn,us,triangle,7200,36.0344,-89.3856
+10/12/1978 23:00,alpine,az,us,circle,7200,33.8481,-109.1425
+10/12/1979 00:45,barnegat,nj,us,rectangle,900,39.7531,-74.2233
+10/12/1982 05:30,pearlington,ms,us,light,20,30.2464,-89.6111
+10/12/1982 05:30,pearlington,ms,us,light,29,30.2464,-89.6111
+10/12/1985 23:45,swansboro,nc,us,disk,300,34.6875,-77.1194
+10/12/1994 11:55,schenectady,ny,us,other,120,42.8142,-73.9400
+10/12/1994 15:00,monticello,ky,us,chevron,120,36.8297,-84.8492
+10/12/1994 21:00,okeechobee,fl,us,disk,120,27.2436,-80.8300
+10/12/1995 20:30,pueblo,co,us,triangle,10,38.2544,-104.6086
+10/12/1997 18:30,huntington beach,ca,us,sphere,20,33.6603,-117.9983
+10/12/1997 21:51,kenner (34th st.),la,us,disk,1260,29.9939,-90.2417
+10/12/1997 22:30,chicago,il,us,light,300,41.8500,-87.6500
+10/12/1997 23:00,franklin,nh,us,other,15,43.4442,-71.6478
+10/12/1998 04:00,lincoln,ne,us,egg,11,40.8000,-96.6667
+10/12/1998 07:00,murray,ut,us,light,300,40.6669,-111.8872
+10/12/1998 19:00,asheville,nc,us,fireball,1800,35.6008,-82.5542
+10/12/1998 19:00,asheville,nc,us,light,2400,35.6008,-82.5542
+10/12/1999 01:30,missoula,mt,us,triangle,60,46.8722,-113.9931
+10/12/1999 05:11,albany,or,us,fireball,120,44.6367,-123.1047
+10/12/1999 09:00,miami,ok,us,oval,120,36.8744,-94.8772
+10/12/1999 12:07,breezewood,pa,us,fireball,3600,39.9992,-78.2389
+10/12/1999 17:15,scottsdale,az,us,cigar,600,33.5092,-111.8983
+10/12/1999 20:00,palominas (near ft. huachuca),az,us,triangle,600,31.3797,-110.1178
+10/12/1999 21:35,port townsend,wa,us,triangle,300,48.1172,-122.7592
+10/12/1999 22:00,phoenix,az,us,fireball,600,33.4483,-112.0733
+10/12/1999 22:15,tulsa,ok,us,other,30,36.1539,-95.9925
+10/12/1999 23:00,little falls (north of),mn,us,formation,3600,45.9764,-94.3622
+10/12/2000 08:00,breckenridge,tx,us,other,300,32.7556,-98.9019
+10/12/2000 15:00,mountain city,tn,us,disk,30,36.4744,-81.8050
+10/12/2000 17:40,new haven,wv,us,disk,6,38.9864,-81.9736
+10/12/2000 18:00,belmont,vt,us,cigar,600,43.4156,-72.8228
+10/12/2000 18:59,gilbert,az,us,oval,1080,33.3528,-111.7883
+10/12/2000 19:00,gilbert,az,us,unknown,900,33.3528,-111.7883
+10/12/2000 19:30,tulsa,ok,us,fireball,60,36.1539,-95.9925
+10/12/2000 21:30,buckeye,az,us,light,300,33.3703,-112.5831
+10/12/2001 01:30,miami (kendall),fl,us,circle,1200,25.7739,-80.1939
+10/12/2001 05:30,miami,fl,us,disk,1200,25.7739,-80.1939
+10/12/2001 15:40,denver,co,us,disk,120,39.7392,-104.9842
+10/12/2001 18:30,phoenix,az,us,formation,120,33.4483,-112.0733
+10/12/2001 23:08,eagle river,ak,us,other,10,61.3214,-149.5678
+10/12/2002 02:40,redmond,wa,us,light,0,47.6742,-122.1203
+10/12/2002 11:00,san leandro,ca,us,disk,600,37.7250,-122.1550
+10/12/2002 11:00,winfield,tx,us,circle,600,33.1672,-95.1117
+10/12/2002 14:40,san francisco,ca,us,unknown,180,37.7750,-122.4183
+10/12/2002 15:49,tinton falls,nj,us,light,900,40.3042,-74.1008
+10/12/2002 18:00,prescott,az,us,formation,600,34.5400,-112.4678
+10/12/2002 19:10,renton,wa,us,disk,3,47.4831,-122.2158
+10/12/2002 19:30,rose lake,id,us,light,600,47.5389,-116.4708
+10/12/2002 20:00,paris,tx,us,triangle,300,33.6608,-95.5553
+10/12/2002 20:10,boca raton,fl,us,light,300,26.3583,-80.0833
+10/12/2002 20:45,paris,tx,us,triangle,300,33.6608,-95.5553
+10/12/2002 23:45,langley (canada),bc,ca,triangle,30,49.1000,-122.6500
+10/12/2003 02:00,albany,ny,us,unknown,30,42.6525,-73.7567
+10/12/2003 02:00,antioch,ca,us,circle,1500,38.0050,-121.8047
+10/12/2003 13:08,auburn,pa,us,fireball,600,40.5983,-76.0936
+10/12/2003 18:25,rosamond,ca,us,other,480,34.8642,-118.1625
+10/12/2003 18:30,south bend,in,us,other,600,41.6833,-86.2500
+10/12/2003 18:35,reevesville,sc,us,other,900,33.2056,-80.6481
+10/12/2003 21:15,pickering (canada),on,ca,circle,7200,43.8667,-79.0333
+10/12/2003 22:20,dallas,tx,us,sphere,300,32.7833,-96.8000
+10/12/2003 23:00,prince george (canada),bc,ca,light,0,53.9167,-122.7667
+10/12/2004 00:00,fort morgan,co,us,sphere,1500,40.2503,-103.7994
+10/12/2004 00:00,tacoma,wa,us,formation,4,47.2531,-122.4431
+10/12/2004 00:06,ripon,ca,us,other,5,37.7417,-121.1233
+10/12/2004 07:37,rockville,md,us,light,10,39.0839,-77.1531
+10/12/2004 12:55,utica,ny,us,light,45,43.1008,-75.2331
+10/12/2004 14:00,hayward,ca,us,sphere,2700,37.6689,-122.0797
+10/12/2004 20:01,miami,fl,us,light,60,25.7739,-80.1939
+10/12/2004 20:27,north port,fl,us,light,75,27.0439,-82.2361
+10/12/2004 21:10,belfair,wa,us,fireball,60,47.4508,-122.8261
+10/12/2004 22:30,rocklin,ca,us,triangle,3600,38.7908,-121.2347
+10/12/2005 00:00,bakersfield,ca,us,fireball,7200,35.3733,-119.0178
+10/12/2005 01:15,bossier city,la,us,oval,30,32.5158,-93.7319
+10/12/2005 02:05,longwood,fl,us,formation,20,28.7028,-81.3386
+10/12/2005 04:00,farmland,in,us,light,600,40.1878,-85.1275
+10/12/2005 12:00,republic,oh,us,flash,0,41.1219,-83.0158
+10/12/2005 17:00,noblesville,in,us,light,10,40.0456,-86.0086
+10/12/2005 20:02,phoenix,az,us,light,300,33.4483,-112.0733
+10/12/2005 20:05,mesa,az,us,sphere,180,33.4222,-111.8219
+10/12/2005 20:32,peoria,az,us,triangle,240,33.5806,-112.2367
+10/12/2005 21:00,georgetown,tx,us,changing,7200,30.6325,-97.6769
+10/12/2005 22:00,san jose,ca,us,unknown,300,37.3394,-121.8939
+10/12/2006 01:23,cornwall (canada),on,ca,sphere,1620,46.2400,-63.2100
+10/12/2006 17:30,seekonk,ma,us,formation,300,41.8083,-71.3375
+10/12/2006 17:50,altamonte springs,fl,us,sphere,30,28.6608,-81.3658
+10/12/2006 18:30,victoria (canada),bc,ca,unknown,120,46.2167,-63.4833
+10/12/2006 20:00,pontiac,mi,us,light,120,42.6389,-83.2911
+10/12/2006 22:30,boulder,co,us,triangle,10,40.0150,-105.2700
+10/12/2007 00:20,ogden,ut,us,triangle,10,41.2231,-111.9731
+10/12/2007 01:45,sedalia,mo,us,formation,15,38.7044,-93.2281
+10/12/2007 05:30,new york city,ny,us,light,1800,40.7142,-74.0064
+10/12/2007 08:15,arcadia,fl,us,formation,65,27.2156,-81.8586
+10/12/2007 14:35,fort washington,pa,us,sphere,300,40.1417,-75.2094
+10/12/2007 19:20,west los angeles,ca,us,unknown,600,34.0522,-118.2428
+10/12/2007 21:30,appleton,wi,us,circle,300,44.2619,-88.4153
+10/12/2007 22:00,irvine,ca,us,circle,600,33.6694,-117.8222
+10/12/2007 22:00,york,pa,us,oval,3300,39.9625,-76.7281
+10/12/2007 22:30,houston,tx,us,formation,0,29.7631,-95.3631
+10/12/2007 23:00,rogers,ar,us,unknown,172800,36.3319,-94.1183
+10/12/2007 23:30,dingmans ferry,pa,us,triangle,3,41.2200,-74.8717
+10/12/2008 00:00,preston,mo,us,fireball,0,37.9408,-93.2075
+10/12/2008 05:20,islip (central),ny,us,light,35,40.7297,-73.2108
+10/12/2008 08:00,russellton,pa,us,cigar,50,40.6114,-79.8372
+10/12/2008 09:00,grand junction,co,us,light,0,39.0639,-108.5500
+10/12/2008 09:00,reading,pa,us,diamond,300,40.3356,-75.9272
+10/12/2008 09:00,rio rancho,nm,us,disk,90,35.2333,-106.6639
+10/12/2008 12:00,larksville,pa,us,other,600,41.2450,-75.9311
+10/12/2008 15:10,nicholasville,ky,us,circle,900,37.8806,-84.5731
+10/12/2008 15:30,syracuse,ny,us,cylinder,0,43.0481,-76.1478
+10/12/2008 19:20,tacoma,wa,us,light,420,47.2531,-122.4431
+10/12/2008 20:00,mckinney,tx,us,light,300,33.1975,-96.6150
+10/12/2008 21:00,manchester,tn,us,changing,120,35.4817,-86.0886
+10/12/2008 23:00,gainesville,va,us,light,300,38.7956,-77.6142
+10/12/2008 23:00,las vegas,nv,us,changing,900,36.1750,-115.1364
+10/12/2008 23:00,wayne,mi,us,circle,45,42.2814,-83.3864
+10/12/2009 00:30,bishop,wv,us,unknown,0,37.2083,-81.5603
+10/12/2009 07:00,dover,nh,us,unknown,5,43.1978,-70.8742
+10/12/2009 11:00,mcdonough,ga,us,formation,900,33.4472,-84.1469
+10/12/2009 20:00,yakima,wa,us,light,300,46.6022,-120.5047
+10/12/2009 20:30,san juan,tx,us,unknown,900,26.1889,-98.1550
+10/12/2009 23:00,cushing,tx,us,flash,0,31.8144,-94.8403
+10/12/2010 00:56,cross roads,tx,us,triangle,180,31.0747,-96.1425
+10/12/2010 06:00,tomball,tx,us,cigar,20,30.0969,-95.6158
+10/12/2010 06:07,sioux falls,sd,us,light,600,43.5500,-96.7000
+10/12/2010 10:00,milpitas,ca,us,other,300,37.4283,-121.9056
+10/12/2010 10:00,milpitas,ca,us,other,300,37.4283,-121.9056
+10/12/2010 12:30,waco,tx,us,oval,300,31.5492,-97.1464
+10/12/2010 14:00,littleton,co,us,triangle,0,39.6133,-105.0161
+10/12/2010 16:00,hillsdale,mi,us,circle,120,41.9200,-84.6306
+10/12/2010 19:00,arlington,va,us,sphere,45,38.8903,-77.0844
+10/12/2010 19:10,dallas,tx,us,cigar,300,32.7833,-96.8000
+10/12/2010 19:13,daphne,al,us,chevron,45,30.6033,-87.9036
+10/12/2010 20:15,bridgeton,mo,us,rectangle,120,38.7669,-90.4114
+10/12/2010 20:30,boston,ma,us,disk,300,42.3583,-71.0603
+10/12/2010 21:00,lufkin,tx,us,chevron,30,31.3381,-94.7289
+10/12/2010 22:15,pinellas park,fl,us,circle,1800,27.8425,-82.6997
+10/12/2010 22:30,waterloo,ia,us,light,180,42.4928,-92.3428
+10/12/2010 22:45,knoxville,tn,us,light,240,35.9606,-83.9208
+10/12/2011 17:11,waco,tx,us,changing,900,31.5492,-97.1464
+10/12/2011 19:00,seaford,de,us,fireball,0,38.6411,-75.6114
+10/12/2011 19:40,whitesburg,tn,us,circle,30,36.2717,-83.1400
+10/12/2011 20:00,ocean isle beach,nc,us,light,1200,33.8942,-78.4269
+10/12/2011 20:00,st. george,ut,us,disk,7,37.1042,-113.5833
+10/12/2011 20:07,charleston,sc,us,unknown,30,32.7764,-79.9311
+10/12/2011 21:00,san antonio,tx,us,triangle,900,29.4239,-98.4933
+10/12/2011 21:00,zortman,mt,us,light,1800,47.9178,-108.5256
+10/12/2012 00:00,titusville,fl,us,fireball,30,28.6119,-80.8078
+10/12/2012 04:10,chicago,il,us,unknown,7200,41.8500,-87.6500
+10/12/2012 06:30,pittsburgh,pa,us,rectangle,3,40.4406,-79.9961
+10/12/2012 08:25,bessemer,pa,us,circle,300,40.9747,-80.4939
+10/12/2012 14:30,big rock,tn,us,sphere,1200,36.5806,-87.7600
+10/12/2012 15:00,clarksville,tn,us,circle,120,36.5297,-87.3594
+10/12/2012 17:00,ashland,or,us,cylinder,40,42.1947,-122.7083
+10/12/2012 17:45,waynesburg (north of),pa,us,light,60,39.8964,-80.1794
+10/12/2012 18:00,salem,or,us,oval,600,44.9431,-123.0339
+10/12/2012 18:55,phoenix,az,us,other,300,33.4483,-112.0733
+10/12/2012 19:00,buckeye,az,us,light,3600,33.3703,-112.5831
+10/12/2012 19:00,lake worth,fl,us,chevron,60,26.6156,-80.0572
+10/12/2012 19:00,lake worth,fl,us,cylinder,60,26.6156,-80.0572
+10/12/2012 19:00,shapleigh,me,us,changing,300,43.5406,-70.8486
+10/12/2012 19:10,hadlyme,ct,us,light,300,41.4203,-72.4069
+10/12/2012 19:30,tucson,az,us,chevron,6,32.2217,-110.9258
+10/12/2012 20:00,cumberland,md,us,light,10,39.6528,-78.7628
+10/12/2012 20:00,waukesha,wi,us,circle,900,43.0117,-88.2314
+10/12/2012 20:30,oklahoma city,ok,us,sphere,300,35.4675,-97.5161
+10/12/2012 20:30,wellington,fl,us,fireball,600,26.6583,-80.2417
+10/12/2012 20:45,grayling,mi,us,light,600,44.6614,-84.7147
+10/12/2012 21:05,anchorage,ak,us,fireball,10,61.2181,-149.9003
+10/12/2012 21:25,oshawa (canada),on,ca,triangle,3,43.9000,-78.8667
+10/12/2012 21:45,cabin creek,wv,us,unknown,40,38.1958,-81.4778
+10/12/2012 22:00,marlton,nj,us,circle,1800,39.8911,-74.9222
+10/12/2012 22:00,ridley park,pa,us,light,15,39.8811,-75.3242
+10/12/2012 23:15,wolcott,ct,us,circle,300,41.6022,-72.9872
+10/12/2013 03:08,austin,tx,us,unknown,17,30.2669,-97.7428
+10/12/2013 04:30,cambridge,ny,us,light,7200,43.0281,-73.3817
+10/12/2013 07:17,strongsville,oh,us,triangle,300,41.3144,-81.8358
+10/12/2013 07:45,festus,mo,us,fireball,60,38.2206,-90.3958
+10/12/2013 13:00,owego,ny,us,disk,120,42.1033,-76.2625
+10/12/2013 14:35,kodiak,ak,us,other,300,57.7900,-152.4072
+10/12/2013 15:00,st. louis,mo,us,formation,900,38.6272,-90.1978
+10/12/2013 18:30,clarkston,mi,us,triangle,1800,42.7358,-83.4189
+10/12/2013 19:45,columbus,oh,us,changing,180,39.9611,-82.9989
+10/12/2013 20:00,albuquerque,nm,us,light,0,35.0844,-106.6506
+10/12/2013 20:00,finleyville,pa,us,other,120,40.2522,-80.0031
+10/12/2013 20:00,grain valley,mo,us,oval,0,39.0150,-94.1983
+10/12/2013 20:00,lima,oh,us,formation,600,40.7425,-84.1053
+10/12/2013 20:00,north judson,in,us,light,30,41.2150,-86.7758
+10/12/2013 20:00,suffolk,va,us,triangle,900,36.7281,-76.5839
+10/12/2013 20:20,morganton,nc,us,light,300,35.7453,-81.6850
+10/12/2013 20:28,keswick (canada),on,ca,sphere,120,44.2500,-79.4667
+10/12/2013 20:40,hamilton,oh,us,formation,1200,39.3994,-84.5614
+10/12/2013 20:55,austin,tx,us,triangle,60,30.2669,-97.7428
+10/12/2013 21:00,franklin,oh,us,light,600,39.5589,-84.3042
+10/12/2013 21:00,hamilton,oh,us,fireball,120,39.3994,-84.5614
+10/12/2013 21:00,springboro,oh,us,unknown,60,39.5522,-84.2333
+10/12/2013 21:00,west chester,oh,us,light,60,39.0875,-81.9228
+10/12/2013 21:15,miamisburg,oh,us,fireball,600,39.6428,-84.2867
+10/12/2013 21:15,peoria,il,us,formation,180,40.6936,-89.5889
+10/12/2013 21:45,springboro,oh,us,unknown,30,39.5522,-84.2333
+10/12/2013 22:00,aspen (~2 hrs. w of; driving),co,us,formation,30,39.1911,-106.8169
+10/12/2013 22:00,grand junction (east of; on i-70),co,us,light,15,39.0639,-108.5500
+10/12/2013 22:00,sundridge (canada),on,ca,sphere,15,45.7667,-79.4000
+10/12/2013 22:05,hilliard,oh,us,diamond,180,40.0333,-83.1583
+10/12/2013 22:26,hiawassee,ga,us,circle,900,34.9492,-83.7575
+10/12/2013 22:30,lombard,il,us,other,120,41.8800,-88.0078
+10/12/2013 23:00,anderson,sc,us,circle,20,34.5033,-82.6503
+10/12/2013 23:00,russell springs,ky,us,light,0,37.0561,-85.0886
+10/12/2013 23:28,orangevale,ca,us,fireball,600,38.6786,-121.2247
+10/12/2013 23:30,orangevale,ca,us,formation,0,38.6786,-121.2247
+NaT,cincinnati,oh,us,fireball,300,39.1619,-84.4569
+NaT,orangevale (sacramento),ca,us,sphere,60,38.6786,-121.2247
+10/13/1966 07:00,mission,tx,us,disk,5,26.2156,-98.3250
+10/13/1969 21:15,millington,tn,us,formation,259200,35.3414,-89.8972
+10/13/1969 22:00,memphis,tn,us,formation,3600,35.1494,-90.0489
+10/13/1971 21:00,bristol,ct,us,disk,600,41.6717,-72.9497
+10/13/1973 18:00,weldon,nc,us,oval,300,36.4269,-77.5958
+10/13/1990 16:00,rising sun,md,us,sphere,600,39.6978,-76.0631
+10/13/1994 19:30,farmington,mo,us,cylinder,120,37.7808,-90.4217
+10/13/1995 06:30,new york city,ny,us,light,60,40.7142,-74.0064
+10/13/1996 03:19,reno,nv,us,triangle,2400,39.5297,-119.8128
+10/13/1996 06:00,gainesville,fl,us,circle,2400,29.6514,-82.3250
+10/13/1996 15:00,astoria (outside of),or,us,circle,30,46.1881,-123.8300
+10/13/1996 19:47,odessa,tx,us,diamond,600,31.8456,-102.3672
+10/13/1996 20:00,encino,ca,us,triangle,3,34.1592,-118.5003
+10/13/1997 03:00,buffalo,ny,us,other,0,42.8864,-78.8786
+10/13/1997 20:15,reno,nv,us,other,3600,39.5297,-119.8128
+10/13/1997 22:15,hollister,ca,us,light,120,36.8525,-121.4006
+10/13/1999 09:45,santa fe,nm,us,disk,25,35.6869,-105.9372
+10/13/1999 17:20,florence,ky,us,triangle,600,38.9989,-84.6267
+10/13/1999 18:00,pittsburgh,pa,us,other,300,40.4406,-79.9961
+10/13/1999 19:45,boscobel,wi,us,light,300,43.1344,-90.7053
+10/13/1999 22:00,lansing,mi,us,circle,600,42.7325,-84.5556
+10/13/2000 01:00,forest hills,ny,us,circle,60,40.7161,-73.8506
+10/13/2000 06:45,tulsa,ok,us,fireball,60,36.1539,-95.9925
+10/13/2000 08:00,newton,ks,us,fireball,90,38.0467,-97.3447
+10/13/2000 18:30,wichita,ks,us,other,90,37.6922,-97.3372
+10/13/2000 18:45,knoxville,tn,us,cylinder,120,35.9606,-83.9208
+10/13/2000 18:45,louisville,ky,us,triangle,600,38.2542,-85.7594
+10/13/2000 19:00,wichita,ks,us,unknown,0,37.6922,-97.3372
+10/13/2000 19:14,clyde,tx,us,cylinder,60,32.4058,-99.4933
+10/13/2000 19:20,jenks,ok,us,fireball,30,36.0228,-95.9681
+10/13/2000 19:25,orangeville,pa,us,unknown,600,41.0781,-76.4147
+10/13/2000 19:30,amarillo,tx,us,light,120,35.2219,-101.8308
+10/13/2000 19:30,baird,tx,us,fireball,60,32.3939,-99.3939
+10/13/2000 19:53,elk city,ok,us,fireball,600,35.4119,-99.4039
+10/13/2000 20:00,eugene (west of),or,us,light,300,44.0522,-123.0856
+10/13/2000 20:00,miami,fl,us,chevron,8,25.7739,-80.1939
+10/13/2000 21:30,orwigsburg,pa,us,fireball,5,40.6547,-76.1011
+10/13/2000 22:10,portland,or,us,light,3,45.5236,-122.6750
+10/13/2001 00:45,poughkeepsie,ny,us,triangle,2700,41.7003,-73.9214
+10/13/2001 19:00,avondale,az,us,triangle,120,33.4356,-112.3489
+10/13/2001 19:55,minneapolis,mn,us,light,10,44.9800,-93.2636
+10/13/2001 22:00,stockton,ca,us,triangle,120,37.9578,-121.2897
+10/13/2001 23:00,west carrollton,oh,us,circle,0,40.5728,-81.0858
+10/13/2002 01:00,heltonville,in,us,light,1800,38.9278,-86.3756
+10/13/2002 04:47,mary esther,fl,us,triangle,1200,30.4097,-86.6631
+10/13/2002 18:20,chicago,il,us,fireball,10,41.8500,-87.6500
+10/13/2002 19:00,alameda,ca,us,cylinder,240,37.7653,-122.2406
+10/13/2002 19:00,smithfield,nc,us,disk,2100,35.5083,-78.3397
+10/13/2002 19:10,eastman,ga,us,light,600,32.1975,-83.1778
+10/13/2002 21:00,port angeles,wa,us,changing,180,48.1183,-123.4294
+10/13/2002 23:00,ship bottom,nj,us,triangle,60,39.6428,-74.1808
+10/13/2003 01:00,deerfield beach,fl,us,cigar,900,26.3181,-80.1000
+10/13/2003 01:00,evansville,in,us,light,600,37.9747,-87.5558
+10/13/2003 06:00,craig,co,us,triangle,1020,40.5153,-107.5458
+10/13/2003 07:00,mississauga (canada),on,ca,fireball,180,43.1500,-79.5000
+10/13/2003 11:50,pocatello,id,us,oval,10,42.8714,-112.4447
+10/13/2003 18:30,wilton,ca,us,disk,1800,38.4119,-121.2711
+10/13/2003 19:12,phoenix,az,us,sphere,10,33.4483,-112.0733
+10/13/2003 20:00,binghamton,ny,us,sphere,30,42.0986,-75.9183
+10/13/2003 20:15,bolton (canada),on,ca,light,120,43.8833,-79.7333
+10/13/2003 21:00,provo,ut,us,light,900,40.2339,-111.6578
+10/13/2003 21:20,denver,co,us,chevron,45,39.7392,-104.9842
+10/13/2003 21:30,trenton,oh,us,other,180,39.4808,-84.4578
+10/13/2003 21:30,warsaw,in,us,other,180,41.2381,-85.8531
+10/13/2003 22:20,laval (canada),pq,ca,triangle,180,45.6000,-73.7333
+10/13/2003 23:00,waterbury,ct,us,disk,10,41.5581,-73.0519
+10/13/2003 23:15,houston,tx,us,light,600,29.7631,-95.3631
+10/13/2003 23:15,zanesville,oh,us,rectangle,180,39.9403,-82.0133
+10/13/2004 00:00,summerland key,fl,us,cigar,20,24.6653,-81.4425
+10/13/2004 01:25,galveston,tx,us,light,1800,29.3011,-94.7975
+10/13/2004 06:20,new haven,ct,us,unknown,540,41.3081,-72.9286
+10/13/2004 17:14,titusville,pa,us,oval,600,41.6269,-79.6739
+10/13/2004 19:00,oceanside,or,us,disk,120,45.4611,-123.9667
+10/13/2004 20:00,mena,ar,us,light,60,34.5861,-94.2394
+10/13/2004 21:40,twin falls,id,us,light,60,42.5631,-114.4600
+10/13/2004 23:00,parkersburg,wv,us,circle,10,39.2667,-81.5617
+10/13/2004 23:00,ravenel,sc,us,chevron,10,32.7631,-80.2503
+10/13/2004 23:45,dallas,or,us,triangle,0,44.9194,-123.3158
+10/13/2004 23:50,new rochelle,ny,us,rectangle,300,40.9114,-73.7828
+NaT,white hall,ar,us,triangle,300,34.2739,-92.0908
+10/13/2005 02:20,siloam springs,ar,us,circle,180,36.1881,-94.5403
+10/13/2005 04:30,jupiter,fl,us,light,10,26.9339,-80.0944
+10/13/2005 05:05,boise,id,us,chevron,4,43.6136,-116.2025
+10/13/2005 15:12,twin falls,id,us,disk,120,42.5631,-114.4600
+10/13/2005 17:32,terlton,ok,us,cylinder,120,36.1881,-96.4900
+10/13/2005 17:32,terlton,ok,us,cylinder,120,36.1881,-96.4900
+10/13/2005 18:40,mesa,az,us,light,90,33.4222,-111.8219
+10/13/2005 20:00,miami,fl,us,other,120,25.7739,-80.1939
+10/13/2005 20:00,millbrook,al,us,changing,7200,32.4797,-86.3619
+10/13/2005 20:05,livermore,ca,us,light,120,37.6819,-121.7669
+10/13/2005 21:00,northfield,mn,us,chevron,1800,44.4583,-93.1614
+10/13/2005 21:30,hayward,ca,us,rectangle,15,37.6689,-122.0797
+10/13/2005 23:30,atlanta,tx,us,other,15,33.1136,-94.1642
+10/13/2006 02:00,tamarac,fl,us,cylinder,35,26.2125,-80.2500
+10/13/2006 05:00,brewer,me,us,light,240,44.7967,-68.7619
+10/13/2006 06:40,gonzales,ca,us,changing,0,36.5067,-121.4433
+10/13/2006 10:30,vandenberg village,ca,us,disk,60,34.7083,-120.4667
+10/13/2006 13:00,trout lake,wa,us,unknown,300,45.9975,-121.5269
+10/13/2006 17:30,la mesa,ca,us,light,600,32.7678,-117.0222
+10/13/2006 19:30,philadelphia,pa,us,oval,1800,39.9522,-75.1642
+10/13/2006 20:30,rawlins,wy,us,triangle,30,41.7911,-107.2381
+10/13/2006 20:50,beaumont,tx,us,triangle,20,30.0858,-94.1017
+10/13/2006 21:15,omaha,ne,us,light,25,41.2586,-95.9375
+10/13/2006 22:00,de soto,ks,us,triangle,10,38.9792,-94.9683
+10/13/2007 01:30,vancleave,ms,us,unknown,10800,30.5403,-88.6875
+10/13/2007 01:59,iroquois falls (canada),on,ca,triangle,120,48.7667,-80.6667
+10/13/2007 07:45,katy,tx,us,triangle,5,29.7856,-95.8242
+10/13/2007 08:35,henderson,nv,us,changing,90,36.0397,-114.9811
+10/13/2007 11:15,fairfax,va,us,sphere,600,38.8461,-77.3067
+10/13/2007 15:30,ashland,or,us,light,600,42.1947,-122.7083
+10/13/2007 17:30,los angeles,ca,us,cigar,15,34.0522,-118.2428
+10/13/2007 18:30,marysville,wa,us,cigar,900,48.0519,-122.1758
+10/13/2007 20:28,mooresville,nc,us,light,300,35.5847,-80.8103
+10/13/2007 22:00,kennewick,wa,us,cylinder,300,46.2114,-119.1361
+10/13/2007 23:00,seattle,wa,us,unknown,7200,47.6064,-122.3308
+NaT,hudson,wi,us,sphere,180,44.9747,-92.7567
+10/13/2008 05:30,santa rosa,ca,us,light,10,38.4406,-122.7133
+10/13/2008 06:00,newburyport,ma,us,light,300,42.8125,-70.8778
+10/13/2008 09:20,clovis,ca,us,other,3000,36.8253,-119.7019
+10/13/2008 10:15,san francisco,ca,us,circle,900,37.7750,-122.4183
+10/13/2008 14:00,yakima,wa,us,unknown,120,46.6022,-120.5047
+10/13/2009 02:45,belleville (canada),on,ca,disk,5,44.1667,-77.3833
+10/13/2009 05:00,boston,ma,us,light,0,42.3583,-71.0603
+10/13/2009 06:30,jackson,nj,us,light,10,39.7764,-74.8628
+10/13/2009 06:30,troy,ny,us,circle,0,42.7283,-73.6922
+10/13/2009 07:03,bend,or,us,light,180,44.0583,-121.3142
+10/13/2009 20:00,little river,sc,us,light,9000,33.8731,-78.6144
+10/13/2009 20:30,stockton,ca,us,light,10,37.9578,-121.2897
+10/13/2009 22:00,minersville,pa,us,sphere,300,40.6906,-76.2625
+10/13/2009 23:10,crookston,mn,us,triangle,180,47.7742,-96.6078
+10/13/2010 01:00,pueblo,co,us,flash,5,38.2544,-104.6086
+10/13/2010 03:00,webster,tx,us,cross,120,29.5375,-95.1181
+10/13/2010 04:45,rochester,ny,us,light,3600,43.1547,-77.6158
+10/13/2010 14:30,las vegas,nv,us,circle,600,36.1750,-115.1364
+10/13/2010 15:47,green,oh,us,triangle,0,40.9458,-81.4833
+10/13/2010 16:00,naperville,il,us,cylinder,900,41.7858,-88.1472
+10/13/2010 17:00,richmond,ca,us,sphere,600,37.9358,-122.3467
+10/13/2010 17:30,flora,il,us,cross,90,38.6689,-88.4856
+10/13/2010 18:15,grandview,mo,us,chevron,10,38.8858,-94.5328
+10/13/2010 18:30,grandview,mo,us,chevron,10,38.8858,-94.5328
+10/13/2010 19:20,new york city,ny,us,light,0,40.7142,-74.0064
+10/13/2010 20:00,cincinnati,oh,us,unknown,300,39.1619,-84.4569
+10/13/2010 20:00,lincoln,ca,us,flash,3600,38.8917,-121.2919
+10/13/2010 20:30,gilbert,az,us,circle,60,33.3528,-111.7883
+10/13/2010 20:30,martinez,ca,us,other,8,38.0194,-122.1331
+10/13/2010 20:30,sunol,ca,us,other,12,37.5944,-121.8875
+10/13/2010 20:40,grandview,mo,us,chevron,60,38.8858,-94.5328
+10/13/2010 20:45,charleston,sc,us,triangle,300,32.7764,-79.9311
+10/13/2010 21:00,charlotte,nc,us,light,600,35.2269,-80.8433
+10/13/2010 21:00,san francisco,ca,us,light,240,37.7750,-122.4183
+10/13/2010 21:00,san francisco,ca,us,sphere,1200,37.7750,-122.4183
+10/13/2010 22:00,allen,tx,us,unknown,10,33.1031,-96.6703
+10/13/2010 22:30,rio linda,ca,us,cylinder,2,38.6911,-121.4475
+10/13/2010 22:45,etna,ca,us,flash,1500,41.4569,-122.8936
+10/13/2010 22:45,las vegas,nv,us,changing,15,36.1750,-115.1364
+10/13/2011 01:36,norman,ok,us,oval,120,35.2225,-97.4392
+10/13/2011 03:30,newark,nj,us,light,10,40.7356,-74.1728
+10/13/2011 15:00,wilmington,oh,us,unknown,4,39.4453,-83.8286
+10/13/2011 19:20,merriam,ks,us,triangle,15,39.0236,-94.6933
+10/13/2011 19:56,boiling springs,sc,us,triangle,300,35.0464,-81.9819
+10/13/2011 20:00,boiling springs,sc,us,formation,300,35.0464,-81.9819
+10/13/2011 20:21,north myrtle beach,sc,us,unknown,60,33.8158,-78.6803
+10/13/2011 20:30,avon,nc,us,fireball,900,35.3519,-75.5108
+10/13/2011 20:38,gurley,al,us,diamond,480,34.7017,-86.3758
+10/13/2011 21:00,surfside beach,sc,us,light,1800,33.6058,-78.9733
+10/13/2011 22:26,myrtle beach,sc,us,circle,15,33.6889,-78.8869
+10/13/2011 23:38,homestead,fl,us,sphere,1800,25.4683,-80.4778
+10/13/2012 01:00,bel air,md,us,light,8,39.5358,-76.3486
+10/13/2012 01:38,cary,nc,us,fireball,4,35.7914,-78.7814
+10/13/2012 02:00,salt lake city,ut,us,other,120,40.7608,-111.8903
+10/13/2012 04:00,stone ridge,ny,us,sphere,0,41.8531,-74.1394
+10/13/2012 05:30,ligonier,pa,us,other,1200,40.2431,-79.2378
+10/13/2012 06:30,cedar bluff,al,us,circle,240,34.2200,-85.6078
+10/13/2012 10:00,columbia,md,us,triangle,600,39.2403,-76.8397
+10/13/2012 14:38,denver,co,us,other,900,39.7392,-104.9842
+10/13/2012 15:00,stockton springs,me,us,sphere,3,44.4894,-68.8575
+10/13/2012 18:00,hamilton (canada),on,ca,unknown,0,43.2500,-79.8333
+10/13/2012 19:00,pueblo,co,us,oval,5,38.2544,-104.6086
+10/13/2012 19:00,taos,nm,us,rectangle,10,36.4072,-105.5725
+10/13/2012 19:20,pekin,il,us,triangle,120,40.5675,-89.6406
+10/13/2012 20:00,calgary (canada),ab,ca,light,120,51.0833,-114.0833
+10/13/2012 20:22,milford,ct,us,oval,900,41.2222,-73.0569
+10/13/2012 20:26,holyoke,ma,us,oval,1500,42.2042,-72.6167
+10/13/2012 20:30,lemont,il,us,oval,2400,41.6736,-88.0017
+10/13/2012 20:30,milford,ct,us,circle,540,41.2222,-73.0569
+10/13/2012 20:30,milford,ct,us,light,900,41.2222,-73.0569
+10/13/2012 20:40,evergreen park,il,us,oval,300,41.7206,-87.7017
+10/13/2012 21:00,cromwell,ct,us,cylinder,360,41.5950,-72.6458
+10/13/2012 21:00,hudson,fl,us,circle,0,28.3642,-82.6936
+10/13/2012 21:00,waterbury,ct,us,fireball,300,41.5581,-73.0519
+10/13/2012 21:15,york springs,pa,us,oval,300,40.0089,-77.1158
+10/13/2012 21:21,baton rouge,la,us,triangle,60,30.4506,-91.1544
+10/13/2012 21:45,mount laurel,nj,us,fireball,60,39.9339,-74.8914
+10/13/2012 22:00,isle of palms,sc,us,circle,180,32.7867,-79.7950
+10/13/2012 22:05,oregon city,or,us,unknown,900,45.3575,-122.6056
+10/13/2012 23:00,ely,mn,us,light,0,47.9033,-91.8669
+10/13/2012 23:00,mountain home,ar,us,light,900,36.3353,-92.3850
+10/13/2012 23:30,new bern,nc,us,circle,120,35.1083,-77.0444
+NaT,kingston,pa,us,light,300,41.2617,-75.8972
+10/13/2013 00:00,bloomington,mn,us,sphere,120,44.8408,-93.2981
+10/13/2013 02:59,salt lake city,ut,us,unknown,5,40.7608,-111.8903
+10/13/2013 04:30,toronto (canada),on,ca,fireball,3600,43.6667,-79.4167
+10/13/2013 05:01,newark,tx,us,circle,10800,33.0011,-97.4842
+10/13/2013 18:57,council bluffs,ia,us,formation,480,41.2619,-95.8608
+10/13/2013 18:57,council bluffs,ia,us,light,480,41.2619,-95.8608
+10/13/2013 19:00,irondequoit,ny,us,fireball,600,43.2133,-77.5800
+10/13/2013 19:00,orange,nj,us,light,1800,40.7706,-74.2331
+10/13/2013 19:30,oswego,il,us,circle,600,41.6828,-88.3514
+10/13/2013 19:40,mechanicsburg,pa,us,fireball,180,40.2142,-77.0089
+10/13/2013 19:45,pasadena,md,us,circle,60,39.1072,-76.5714
+10/13/2013 19:45,spring hill,fl,us,diamond,300,28.5556,-82.4506
+10/13/2013 19:47,spokane,wa,us,flash,900,47.6589,-117.4250
+10/13/2013 19:47,west palm beach,fl,us,light,25,26.7053,-80.0367
+10/13/2013 20:00,sanford,fl,us,unknown,900,28.8003,-81.2733
+10/13/2013 20:30,bushnell,fl,us,sphere,2700,28.6647,-82.1131
+10/13/2013 20:30,raymond,oh,us,unknown,600,40.3347,-83.4658
+10/13/2013 20:40,indianapolis,in,us,circle,1200,39.7683,-86.1581
+10/13/2013 20:45,gobles,mi,us,unknown,180,42.3608,-85.8794
+10/13/2013 20:59,silverdale,wa,us,light,2640,47.6447,-122.6936
+10/13/2013 21:15,livonia,mi,us,triangle,55,42.3683,-83.3528
+10/13/2013 21:30,regina (canada),sk,ca,light,20,50.4500,-104.6167
+10/13/2013 21:45,ligonier,pa,us,light,180,40.2431,-79.2378
+10/13/2013 22:00,walls,ms,us,light,240,34.9578,-90.1517
+10/13/2013 22:50,fishers,in,us,changing,60,39.9556,-86.0139
+10/13/2013 22:55,new york city (brooklyn),ny,us,sphere,420,40.7142,-74.0064
+10/13/2013 23:00,warren,mi,us,sphere,3,42.4775,-83.0278
+10/13/2013 23:30,sheldon,ia,us,circle,300,43.1811,-95.8558
+10/14/1974 16:30,fulton,mo,us,diamond,60,38.8467,-91.9478
+10/14/1978 07:00,atlanta,ga,us,disk,900,33.7489,-84.3881
+10/14/1986 20:30,san jose,ca,us,light,120,37.3394,-121.8939
+10/14/1990 21:00,reidsville,ga,us,oval,240,32.0867,-82.1181
+10/14/1994 04:00,goodlettsville,tn,us,changing,120,36.3231,-86.7133
+10/14/1994 19:30,citra,fl,us,sphere,120,29.4117,-82.1100
+10/14/1994 20:30,cornersville,tn,us,circle,1200,35.3614,-86.8397
+10/14/1995 20:05,belmont,mi,us,triangle,1800,43.0756,-85.6092
+10/14/1996 03:00,gainesville,fl,us,circle,1800,29.6514,-82.3250
+10/14/1997 16:00,syracuse (north),ny,us,unknown,30,43.0481,-76.1478
+10/14/1997 23:55,san diego,ca,us,light,0,32.7153,-117.1564
+10/14/1998 06:45,winnipeg (canada),mb,ca,sphere,3600,49.8833,-97.1667
+10/14/1998 19:55,otis,or,us,other,3,45.0244,-123.9453
+10/14/1998 19:55,overton,nv,us,fireball,10,36.5433,-114.4461
+10/14/1998 22:00,tucson,az,us,oval,120,32.2217,-110.9258
+10/14/1999 08:30,prescott,az,us,light,2700,34.5400,-112.4678
+10/14/1999 14:00,yonkers,ny,us,light,300,40.9311,-73.8992
+10/14/1999 16:30,kingston (canada),on,ca,light,45,44.2333,-76.4833
+10/14/1999 20:15,el paso,tx,us,triangle,1200,31.7586,-106.4864
+10/14/1999 20:20,mead  (near spokane),wa,us,light,3,47.7675,-117.3539
+10/14/1999 20:30,warrensville,nc,us,circle,1350,36.4606,-81.5192
+10/14/1999 22:10,nashville,tn,us,light,660,36.1658,-86.7844
+10/14/1999 22:50,raymond,nh,us,triangle,900,43.0361,-71.1839
+10/14/2000 01:16,salinas,ca,us,unknown,120,36.6778,-121.6544
+10/14/2000 02:30,escondido,ca,us,unknown,2700,33.1192,-117.0856
+10/14/2000 14:18,breezewood,pa,us,cigar,120,39.9992,-78.2389
+10/14/2000 16:05,mechanicsville,va,us,circle,15,37.6086,-77.3736
+10/14/2000 18:15,sarasota,fl,us,unknown,180,27.3361,-82.5308
+10/14/2000 18:30,gonzales,la,us,rectangle,30,30.2383,-90.9200
+10/14/2000 22:18,denver,co,us,unknown,360,39.7392,-104.9842
+10/14/2001 00:30,hialeah,fl,us,other,0,25.8572,-80.2783
+10/14/2001 01:30,gray,tx,us,circle,0,32.7875,-94.0733
+10/14/2001 03:30,chicago (downtown&#44 on l. michigan),il,us,other,900,41.8500,-87.6500
+10/14/2001 06:00,adkins,tx,us,diamond,120,29.3928,-98.2369
+10/14/2001 17:00,franklin,ma,us,other,180,42.0833,-71.3972
+10/14/2001 20:45,lake elmo,mn,us,chevron,300,44.9958,-92.8792
+10/14/2001 21:03,des moines,ia,us,light,5,41.6006,-93.6089
+10/14/2001 22:00,savanna,il,us,light,300,42.0944,-90.1567
+10/14/2002 01:22,savage,mn,us,triangle,10,44.7792,-93.3361
+10/14/2002 02:00,joseph,ut,us,triangle,2,38.6264,-112.2164
+10/14/2002 07:10,ely,nv,us,light,1500,39.2475,-114.8878
+10/14/2002 16:15,littleton,co,us,disk,600,39.6133,-105.0161
+10/14/2002 18:05,windsor (canada),on,ca,other,600,45.5833,-72.0000
+10/14/2002 18:45,dallesport,wa,us,light,60,45.6175,-121.1783
+10/14/2002 19:00,los angeles,ca,us,circle,1200,34.0522,-118.2428
+10/14/2002 19:00,manteca,ca,us,light,300,37.7975,-121.2150
+10/14/2002 19:00,palos verdes estates,ca,us,unknown,180,33.8006,-118.3892
+10/14/2002 19:00,temecula,ca,us,circle,2,33.4936,-117.1475
+10/14/2002 19:00,truckee,ca,us,circle,0,39.3281,-120.1822
+10/14/2002 19:00,walnut creek,ca,us,light,300,37.9064,-122.0639
+10/14/2002 19:00,westlake village,ca,us,fireball,1200,34.1458,-118.8047
+10/14/2002 19:02,creswell,or,us,fireball,30,43.9181,-123.0233
+10/14/2002 19:02,porterville,ca,us,fireball,60,36.0653,-119.0158
+10/14/2002 19:03,redwood valley,ca,us,fireball,60,39.2656,-123.2033
+10/14/2002 19:05,grass valley,ca,us,fireball,10,39.2192,-121.0600
+10/14/2002 19:05,ivins,ut,us,fireball,5,37.1686,-113.6786
+10/14/2002 19:05,madras,or,us,chevron,30,44.6336,-121.1283
+10/14/2002 19:05,medford,or,us,light,300,42.3267,-122.8744
+10/14/2002 19:05,murphys,ca,us,changing,60,38.1375,-120.4586
+10/14/2002 19:10,fall river mills,ca,us,fireball,120,41.0047,-121.4372
+10/14/2002 19:30,anderson,ca,us,light,300,40.4483,-122.2967
+10/14/2002 19:30,goldendale,wa,us,disk,300,45.8208,-120.8206
+10/14/2002 19:30,las vegas,nv,us,sphere,60,36.1750,-115.1364
+10/14/2002 19:30,san jose,ca,us,other,120,37.3394,-121.8939
+10/14/2002 20:08,san jose,ca,us,unknown,16,37.3394,-121.8939
+10/14/2002 20:15,elmo,ut,us,circle,600,39.3897,-110.8144
+10/14/2002 20:15,gaysville,vt,us,cone,37800,43.7783,-72.6994
+10/14/2002 22:15,clarks summit,pa,us,circle,10,41.4886,-75.7089
+10/14/2002 22:30,oshawa (canada),on,ca,light,1200,43.9000,-78.8667
+10/14/2003 11:30,yelm,wa,us,oval,900,46.9422,-122.6047
+10/14/2003 13:15,chicoutimi (canada),pq,ca,cylinder,2,48.4333,-71.0667
+10/14/2003 19:00,plains,pa,us,triangle,60,41.2753,-75.8506
+10/14/2003 19:58,san leandro,ca,us,light,10,37.7250,-122.1550
+10/14/2003 21:00,los angeles,ca,us,triangle,30,34.0522,-118.2428
+10/14/2003 21:24,orlando,fl,us,formation,15,28.5381,-81.3794
+10/14/2003 23:00,indianapolis,in,us,oval,1,39.7683,-86.1581
+10/14/2003 23:00,indianapolis,in,us,oval,1,39.7683,-86.1581
+10/14/2003 23:00,minneapolis,mn,us,other,0,44.9800,-93.2636
+10/14/2003 23:50,trego,wi,us,unknown,60,45.8997,-91.8208
+10/14/2004 02:30,needville,tx,us,light,60,29.3992,-95.8375
+10/14/2004 14:20,reno,nv,us,changing,7200,39.5297,-119.8128
+10/14/2004 19:37,prescott (southwest of),az,us,light,7200,34.5400,-112.4678
+10/14/2005 01:00,columbus,oh,us,sphere,600,39.9611,-82.9989
+10/14/2005 06:40,amarillo,tx,us,sphere,420,35.2219,-101.8308
+10/14/2005 09:35,san antonio,tx,us,other,300,29.4239,-98.4933
+10/14/2005 13:30,littleton,co,us,circle,1800,39.6133,-105.0161
+10/14/2005 14:45,lenexa,ks,us,sphere,300,38.9536,-94.7333
+10/14/2005 18:55,bonner springs,ks,us,light,300,39.0597,-94.8833
+10/14/2005 19:45,lincoln (east of),mt,us,egg,1800,46.9550,-112.6808
+10/14/2005 21:00,correo,nm,us,light,900,34.9550,-107.1842
+10/14/2005 21:00,denver,co,us,light,300,39.7392,-104.9842
+10/14/2005 21:30,earp,ca,us,unknown,120,34.1647,-114.3003
+10/14/2005 21:30,park rapids,mn,us,triangle,1200,46.9222,-95.0583
+10/14/2006 01:25,jaffrey,nh,us,fireball,10,42.8139,-72.0236
+10/14/2006 02:00,waterbury,ct,us,fireball,5,41.5581,-73.0519
+10/14/2006 02:00,yuma,va,us,formation,300,36.6150,-82.6125
+10/14/2006 02:24,fairfield,ct,us,fireball,4,41.1411,-73.2642
+10/14/2006 02:25,new york city (yonkers),ny,us,teardrop,120,40.7142,-74.0064
+10/14/2006 18:00,provincetown,ma,us,circle,180,42.0583,-70.1792
+10/14/2006 20:15,san diego,ca,us,fireball,30,32.7153,-117.1564
+10/14/2006 21:30,ogunquit,me,us,light,300,43.2489,-70.5997
+10/14/2006 22:00,buchanan,ga,us,light,300,33.8025,-85.1886
+10/14/2006 23:56,beverly hills,fl,us,changing,600,28.9167,-82.4583
+10/14/2007 00:40,westfir,or,us,unknown,6,43.7575,-122.4953
+10/14/2007 10:20,birch bay,wa,us,cigar,0,48.9181,-122.7433
+10/14/2007 15:00,las vegas,nv,us,light,600,36.1750,-115.1364
+10/14/2007 16:00,honolulu,hi,us,light,10,21.3069,-157.8583
+10/14/2007 16:00,redondo beach,ca,us,circle,180,33.8492,-118.3875
+10/14/2007 20:30,barbourville,ky,us,oval,18000,36.8664,-83.8889
+10/14/2007 21:14,little rock,ar,us,changing,15,34.7464,-92.2894
+10/14/2007 21:25,surprise,az,us,other,1.500000e+00,33.6306,-112.3325
+10/14/2007 21:50,blairstown,nj,us,triangle,300,40.9828,-74.9608
+10/14/2008 00:00,barstow,ca,us,other,10,34.8986,-117.0219
+10/14/2008 00:00,shelbyville,tn,us,disk,0,35.4833,-86.4603
+10/14/2008 01:00,austin,tx,us,sphere,1,30.2669,-97.7428
+10/14/2008 01:30,valparaiso,in,us,formation,5,41.4731,-87.0611
+10/14/2008 10:00,hemet,ca,us,formation,600,33.7475,-116.9711
+10/14/2008 16:45,falls church,va,us,egg,600,38.8822,-77.1714
+10/14/2008 17:00,vallejo,ca,us,sphere,12,38.1042,-122.2556
+10/14/2008 17:30,narberth,pa,us,light,20,40.0083,-75.2608
+10/14/2008 20:00,boonville,ny,us,formation,180,43.4836,-75.3369
+10/14/2008 20:30,rapid city,sd,us,cigar,0,44.0806,-103.2306
+10/14/2008 20:40,anderson,sc,us,chevron,75,34.5033,-82.6503
+10/14/2008 22:05,louisville,ky,us,disk,120,38.2542,-85.7594
+10/14/2008 22:35,manteca,ca,us,circle,300,37.7975,-121.2150
+10/14/2009 01:30,fresno,ca,us,other,60,36.7478,-119.7714
+10/14/2009 02:20,honolulu,hi,us,circle,300,21.3069,-157.8583
+10/14/2009 09:00,concord,ca,us,changing,600,37.9781,-122.0300
+10/14/2009 19:00,avoca,mi,us,formation,240,43.0619,-82.6911
+10/14/2009 19:05,syracuse,ny,us,cross,180,43.0481,-76.1478
+10/14/2009 20:30,reno,nv,us,light,20,39.5297,-119.8128
+10/14/2009 21:37,new york city,ny,us,oval,1080,40.7142,-74.0064
+10/14/2009 22:00,creswell,or,us,fireball,45,43.9181,-123.0233
+10/14/2010 06:04,the colony,tx,us,light,3,33.0889,-96.8861
+10/14/2010 06:15,imperial,mo,us,formation,1200,38.3697,-90.3783
+10/14/2010 16:30,truth or consequences,nm,us,circle,0,33.1283,-107.2522
+10/14/2010 18:00,rock hill,sc,us,flash,0,34.9247,-81.0253
+10/14/2010 18:30,foley,al,us,cylinder,30,30.4064,-87.6836
+10/14/2010 18:35,visalia,ca,us,circle,0,36.3303,-119.2911
+10/14/2010 19:20,mitchell,sd,us,light,120,43.7094,-98.0294
+10/14/2010 19:30,ripon,ca,us,triangle,480,37.7417,-121.1233
+10/14/2010 21:25,livermore,ca,us,light,90,37.6819,-121.7669
+10/14/2010 22:05,calgary (canada),ab,ca,other,20,51.0833,-114.0833
+10/14/2011 00:00,blackjack (north st. louis co.),mo,us,light,60,37.8722,-93.7917
+10/14/2011 00:00,ringgold,ga,us,unknown,1200,34.9158,-85.1092
+10/14/2011 01:30,oldsmar,fl,us,triangle,1500,28.0339,-82.6653
+10/14/2011 02:30,carterville,mo,us,other,1800,37.1492,-94.4428
+10/14/2011 02:30,carterville,mo,us,other,1800,37.1492,-94.4428
+10/14/2011 05:00,whitakers,nc,us,triangle,240,36.1053,-77.7131
+10/14/2011 05:30,scottsdale,az,us,triangle,240,33.5092,-111.8983
+10/14/2011 09:42,elmer,nj,us,triangle,1200,39.5950,-75.1706
+10/14/2011 10:00,honolulu,hi,us,triangle,120,21.3069,-157.8583
+10/14/2011 10:30,coral springs,fl,us,other,120,26.2708,-80.2708
+10/14/2011 13:30,san bernardino,ca,us,sphere,60,34.1083,-117.2889
+10/14/2011 17:00,sierra vista,az,us,other,600,31.5544,-110.3031
+10/14/2011 17:45,ocala,fl,us,cylinder,240,29.1869,-82.1403
+10/14/2011 18:00,el paso,tx,us,circle,37800,31.7586,-106.4864
+10/14/2011 18:30,strawberry,az,us,flash,1.500000e+00,34.4078,-111.4928
+10/14/2011 19:30,ellisville,ms,us,unknown,900,31.6039,-89.1956
+10/14/2011 19:41,golden valley,az,us,oval,3,35.2233,-114.2222
+10/14/2011 19:41,golden valley,az,us,oval,4,35.2233,-114.2222
+10/14/2011 20:30,wendover (east of&#44 on i-80),ut,us,changing,1020,40.7372,-114.0367
+10/14/2011 20:35,eufaula,al,us,light,25,31.8911,-85.1456
+10/14/2011 21:20,holbrook,az,us,other,1.000000e-01,34.9022,-110.1575
+10/14/2011 22:00,sebring,oh,us,light,0,40.9228,-81.0192
+10/14/2011 22:30,tempe,az,us,sphere,300,33.4147,-111.9086
+10/14/2011 22:30,york,pa,us,triangle,2,39.9625,-76.7281
+NaT,cibecue (west of),az,us,light,300,34.0447,-110.4847
+NaT,corcoran,mn,us,circle,0,45.0953,-93.5472
+10/14/2012 02:30,meadow vista,ca,us,diamond,0,39.0011,-121.0208
+10/14/2012 02:46,modesto,ca,us,diamond,120,37.6392,-120.9958
+10/14/2012 07:30,fort worth,tx,us,circle,60,32.7253,-97.3206
+10/14/2012 12:50,centralia,wa,us,egg,900,46.7164,-122.9531
+10/14/2012 13:37,sierra madre,ca,us,formation,180,34.1617,-118.0519
+10/14/2012 15:30,raleigh,nc,us,cylinder,60,35.7719,-78.6389
+10/14/2012 16:45,santa barbara,ca,us,light,900,34.4208,-119.6972
+10/14/2012 19:00,loveland,co,us,triangle,30,40.3978,-105.0744
+10/14/2012 19:00,round rock,tx,us,light,0,30.5081,-97.6786
+10/14/2012 20:00,easton,pa,us,fireball,1800,40.6883,-75.2211
+10/14/2012 21:00,el centro,ca,us,circle,1800,32.7919,-115.5622
+10/14/2012 21:15,newburgh,in,us,unknown,300,37.9444,-87.4053
+10/14/2012 21:30,elmore city,ok,us,unknown,600,34.6228,-97.3961
+10/14/2012 21:45,canyon lake,ca,us,unknown,600,33.6850,-117.2722
+10/14/2012 21:45,lakewood,nj,us,light,180,40.0978,-74.2181
+10/14/2012 21:45,toms river,nj,us,circle,10,39.9536,-74.1983
+10/14/2012 22:00,lake wales,fl,us,changing,2100,27.9011,-81.5861
+10/14/2012 22:00,lake wales,fl,us,changing,2100,27.9011,-81.5861
+10/14/2012 23:00,nanuet,ny,us,light,1.500000e+00,41.0886,-74.0139
+10/14/2012 23:34,charleston,sc,us,triangle,20,32.7764,-79.9311
+10/14/2013 00:35,forked river,nj,us,circle,60,39.8397,-74.1906
+10/14/2013 01:40,albuquerque,nm,us,flash,2700,35.0844,-106.6506
+10/14/2013 11:47,hampton,nh,us,cylinder,60,42.9375,-70.8394
+10/14/2013 16:00,buckingham,pa,us,rectangle,600,40.3236,-75.0603
+10/14/2013 16:00,hawkesbury (canada),on,ca,sphere,30,45.6167,-74.6000
+10/14/2013 16:00,hawkesbury (canada),on,ca,sphere,30,45.6167,-74.6000
+10/14/2013 16:45,charlotte,nc,us,sphere,240,35.2269,-80.8433
+10/14/2013 18:00,vernon hills,il,us,cigar,240,42.2194,-87.9794
+10/14/2013 19:00,seaside,or,us,light,900,45.9933,-123.9214
+10/14/2013 19:15,oakland,ca,us,light,300,37.8044,-122.2697
+10/14/2013 19:30,green bay,wi,us,light,180,44.5192,-88.0197
+10/14/2013 19:30,ruston,la,us,sphere,900,32.5231,-92.6378
+10/14/2013 19:30,toronto (canada),on,ca,light,1200,43.6667,-79.4167
+10/14/2013 20:00,leland,mi,us,disk,120,45.0231,-85.7597
+10/14/2013 20:15,holgate,nj,us,circle,300,39.5400,-74.2572
+10/14/2013 20:30,kalamazoo,mi,us,circle,300,42.2917,-85.5872
+10/14/2013 20:30,point arena,ca,us,triangle,900,38.9089,-123.6919
+10/14/2013 23:00,warren,oh,us,circle,45,41.2375,-80.8186
+10/15/1936 17:00,eklutna,ak,us,cigar,180,61.4581,-149.3622
+10/15/1943 11:00,owensboro,ky,us,rectangle,1800,37.7742,-87.1133
+10/15/1949 20:00,baltimore,md,us,cigar,180,39.2903,-76.6125
+10/15/1951 20:00,jacksonville,fl,us,disk,0,30.3319,-81.6558
+10/15/1952 21:00,richland,wa,us,circle,5,46.2858,-119.2833
+NaT,edmonton (southwest of) (canada),ab,ca,cylinder,120,53.5500,-113.5000
+10/15/1953 14:00,mauriceville,tx,us,disk,300,30.2033,-93.8661
+10/15/1954 16:30,blanco,tx,us,other,300,30.0978,-98.4211
+10/15/1954 21:30,manistee,mi,us,circle,8,44.2444,-86.3242
+10/15/1955 20:00,rhinebeck,ny,us,light,2400,41.9267,-73.9131
+10/15/1957 01:45,england,ar,us,disk,0,34.5442,-91.9689
+10/15/1957 20:30,houston (ellington afb),tx,us,light,3,29.7631,-95.3631
+10/15/1957 22:00,commerce city (n. of denver),co,us,fireball,600,39.8083,-104.9333
+10/15/1959 00:00,marysville,wa,us,other,75,48.0519,-122.1758
+10/15/1961 18:00,indialantic,fl,us,oval,120,28.0892,-80.5658
+10/15/1962 22:30,chicago,il,us,other,10,41.8500,-87.6500
+10/15/1964 00:00,columbus,oh,us,cigar,600,39.9611,-82.9989
+10/15/1965 15:00,new rochelle,ny,us,sphere,2,40.9114,-73.7828
+10/15/1965 21:00,tabor,ia,us,oval,2700,40.8983,-95.6711
+10/15/1966 02:00,boca raton (military trail),fl,us,circle,21600,26.3583,-80.0833
+10/15/1966 18:30,martinsville,in,us,disk,60,39.4278,-86.4283
+10/15/1966 19:00,running  springs,ca,us,disk,1200,34.2078,-117.1083
+10/15/1966 20:00,ukiah,or,us,oval,1200,45.1342,-118.9314
+10/15/1966 20:00,utica,ny,us,triangle,180,43.1008,-75.2331
+10/15/1967 18:00,birmingham,al,us,oval,300,33.5206,-86.8025
+10/15/1967 21:00,hampstead,nc,us,disk,300,34.3675,-77.7108
+10/15/1967 21:00,north hollywood,ca,us,fireball,900,34.1722,-118.3781
+10/15/1967 23:00,saugus,ca,us,light,180,34.4114,-118.5392
+10/15/1968 02:00,hastings,mn,us,triangle,120,44.7433,-92.8522
+10/15/1968 07:30,crystal lake,il,us,cigar,1800,42.2411,-88.3161
+10/15/1968 20:00,bancroft (rural area near),wi,us,light,120,44.3097,-89.5136
+10/15/1969 00:00,sharon,ct,us,oval,120,41.8792,-73.4772
+10/15/1969 06:00,pearl,ms,us,cigar,1200,32.2744,-90.1319
+10/15/1969 13:00,portland,or,us,cigar,0,45.5236,-122.6750
+10/15/1969 18:30,wilmington,de,us,circle,60,39.7458,-75.5469
+10/15/1969 19:00,hurst,tx,us,disk,60,32.8233,-97.1703
+10/15/1969 19:00,miami,fl,us,changing,120,25.7739,-80.1939
+10/15/1969 21:00,exeter (near),nh,us,cigar,1800,42.9814,-70.9483
+10/15/1969 23:30,alpine,az,us,disk,300,33.8481,-109.1425
+10/15/1970 10:00,westland,mi,us,unknown,20,42.3242,-83.4003
+10/15/1971 18:00,bremerton,wa,us,disk,600,47.5675,-122.6314
+10/15/1971 20:30,litchfield,ct,us,circle,360,41.7472,-73.1892
+10/15/1971 20:30,tinley park,il,us,disk,900,41.5733,-87.7844
+NaT,lago vista (near austin),tx,us,formation,1800,30.4600,-97.9881
+10/15/1972 08:30,toronto (canada),on,ca,oval,2,43.6667,-79.4167
+10/15/1973 12:40,spokane,wa,us,circle,900,47.6589,-117.4250
+10/15/1973 16:00,collierville,tn,us,disk,300,35.0419,-89.6644
+10/15/1973 17:30,chazy,ny,us,light,300,44.8897,-73.4364
+10/15/1973 18:00,englewood,tn,us,disk,120,35.4244,-84.4875
+10/15/1973 19:30,houston,tx,us,circle,2700,29.7631,-95.3631
+10/15/1973 20:00,millington,tn,us,disk,1800,35.3414,-89.8972
+10/15/1974 02:30,oak creek,co,us,cigar,0,40.2750,-106.9578
+10/15/1974 18:00,memphis,tn,us,cigar,1200,35.1494,-90.0489
+10/15/1974 18:30,bath,oh,us,oval,2700,41.1889,-81.6364
+10/15/1974 22:30,san francisco (south of),ca,us,light,180,37.7750,-122.4183
+10/15/1974 23:00,la junta,co,us,other,20,37.9850,-103.5433
+10/15/1975 02:30,rockville,md,us,disk,7200,39.0839,-77.1531
+10/15/1975 03:00,rockville,md,us,disk,7200,39.0839,-77.1531
+10/15/1975 06:30,killeen,tx,us,changing,240,31.1169,-97.7275
+10/15/1975 16:00,batesville,ms,us,sphere,600,34.3114,-89.9442
+10/15/1975 16:00,marianna,fl,us,disk,300,30.7742,-85.2269
+10/15/1975 16:00,marion,ks,us,light,2,38.3483,-97.0169
+10/15/1975 18:00,nesconset,ny,us,disk,180,40.8519,-73.1544
+10/15/1975 18:00,williston,nd,us,disk,300,48.1333,-103.6333
+10/15/1975 19:00,monroe,ny,us,disk,60,41.3306,-74.1872
+10/15/1975 19:00,swannanoa,nc,us,other,900,35.5978,-82.4000
+10/15/1975 22:00,ryegate (south of),mt,us,circle,3600,46.2972,-109.2581
+10/15/1975 23:00,collinsville,al,us,triangle,900,34.2639,-85.8606
+NaT,greenwich,ct,us,light,0,41.0264,-73.6289
+10/15/1976 17:30,mineral king,ca,us,disk,28800,36.4508,-118.5939
+10/15/1976 19:30,rochester,ny,us,unknown,10,43.1547,-77.6158
+10/15/1976 21:00,eveleth,mn,us,light,900,47.4625,-92.5397
+10/15/1976 23:00,almena,wi,us,unknown,14400,45.4169,-92.0328
+10/15/1977 21:00,biloxi,ms,us,triangle,60,30.3958,-88.8853
+10/15/1977 22:00,orlando,fl,us,disk,60,28.5381,-81.3794
+10/15/1977 23:00,kennewick,wa,us,light,300,46.2114,-119.1361
+10/15/1978 02:30,des plaines,il,us,disk,30,42.0333,-87.8833
+10/15/1978 19:00,coeur d&#39alene,id,us,oval,10,47.6778,-116.7794
+10/15/1978 20:00,cherokee,nc,us,light,120,35.4742,-83.3150
+10/15/1978 22:00,candia,nh,us,oval,1200,43.0778,-71.2772
+NaT,greenwich,ct,us,circle,900,41.0264,-73.6289
+NaT,redondo beach,ca,us,other,0,33.8492,-118.3875
+10/15/1979 16:30,ellwood city,pa,us,unknown,900,40.8617,-80.2867
+10/15/1979 19:35,bemidji,mn,us,unknown,1500,47.4736,-94.8800
+10/15/1979 21:00,gig harbor,wa,us,circle,600,47.3294,-122.5789
+10/15/1980 02:30,columbus,oh,us,fireball,900,39.9611,-82.9989
+10/15/1980 03:00,guntersville,al,us,triangle,10,34.3581,-86.2947
+10/15/1980 19:00,avon,ct,us,disk,60,41.8097,-72.8311
+10/15/1980 19:00,denham springs,la,us,rectangle,360,30.4867,-90.9561
+10/15/1980 20:00,boonville,ca,us,sphere,300,39.0092,-123.3650
+10/15/1980 23:00,jonesport,me,us,oval,300,44.5328,-67.5989
+NaT,boonville,ca,us,sphere,300,39.0092,-123.3650
+10/15/1981 07:30,stonewall (canada),mb,ca,triangle,36000,50.1333,-97.3167
+10/15/1981 16:00,beaverton,or,us,cigar,10,45.4872,-122.8025
+10/15/1981 16:30,san jose,ca,us,disk,420,37.3394,-121.8939
+10/15/1982 14:00,van nuys,ca,us,disk,1200,34.1867,-118.4481
+10/15/1982 19:00,lake city,fl,us,unknown,900,30.1894,-82.6394
+10/15/1982 19:30,smithfield,ri,us,circle,60,41.9219,-71.5500
+10/15/1982 20:00,barton,vt,us,rectangle,1200,44.7481,-72.1767
+10/15/1982 20:00,north hudson,ny,us,disk,120,43.9525,-73.7289
+10/15/1982 20:30,hampton,va,us,chevron,9000,37.0297,-76.3456
+10/15/1982 21:00,concord,oh,us,rectangle,0,39.0219,-84.0803
+10/15/1982 21:00,omaha,ne,us,disk,120,41.2586,-95.9375
+10/15/1982 23:00,chillicothe,oh,us,rectangle,0,39.3331,-82.9825
+NaT,california valley,ca,us,disk,600,35.3200,-120.0058
