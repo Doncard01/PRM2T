@@ -1,4 +1,4 @@
-package pl.edu.pw.elka.prm2t.lab4.zad1;
+package pl.edu.pw.elka.prm2t.lab5.zad2.lab4.zad1;
 
 import pl.edu.pw.elka.prm2t.PRM2TUtil; //funkcja readImage
 

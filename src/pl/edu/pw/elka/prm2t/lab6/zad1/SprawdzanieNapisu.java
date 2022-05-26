@@ -74,6 +74,7 @@ public class SprawdzanieNapisu {
         frame.add(panel, BorderLayout.CENTER);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("Testowanie danych wejściowych");
+        //frame.setSize(800, 800);
         frame.pack();
         frame.setVisible(true);
 
