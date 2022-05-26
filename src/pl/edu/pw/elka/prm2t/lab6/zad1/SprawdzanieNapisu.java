@@ -37,6 +37,8 @@ public class SprawdzanieNapisu {
             String input = userText.getText();
             if (isNumeric(input)) {
                 textField.setText(input);
+                String message = "Wpisano " + input;
+                JOptionPane.showMessageDialog(frame2, message);
                 frame2.setVisible(false);
                 frame.setVisible(true);
             } else {
