@@ -8,3 +8,13 @@ add_executable(factorial
 
 add_executable(ackf
         src/pl/edu/pw/elka/prm2t/cw7/ackf.c)
+
+add_executable(zad1
+        src/pl/edu/pw/elka/prm2t/lab7/zad1.c)
+
+add_executable(zad2
+        src/pl/edu/pw/elka/prm2t/lab7/zad2.c)
+
+add_executable(zad3
+        src/pl/edu/pw/elka/prm2t/lab7/zad3.c)
+        
