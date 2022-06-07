@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "stdio.h"
 
 #define TABLE_SIZE 10
 
