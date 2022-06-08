@@ -19,7 +19,7 @@ int main(int argc, char **argv)
         switch (option)
         {
         case 1:
-            printf("Trzy najlepsze rezultaty:\n");
+            printf("Three best:\n");
 
             for (int i = 0; i < TABLE_SIZE; i++)
             {
