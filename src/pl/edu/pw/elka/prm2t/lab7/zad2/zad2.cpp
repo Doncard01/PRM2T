@@ -41,7 +41,7 @@ int main()
                 for (int i =0; i < TABLE_SIZE; i++) {
                     for (int j = 0; j < TABLE_SIZE; j++)
                     {
-                        if (times[i] > times[j])
+                        if (times[i] < times[j])
                         {
                             int temp = times[i];
                             times[i] = times[j];

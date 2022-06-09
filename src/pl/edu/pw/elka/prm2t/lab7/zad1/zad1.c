@@ -26,7 +26,7 @@ int main(int argc, char **argv)
                 //sortowanie
                 for (int j = 0; j < TABLE_SIZE; j++)
                 {
-                    if (times[i] > times[j])
+                    if (times[i] > times[j]) //mozna zmienic znak po prostu i sie odwroci sortowanie
                     {
                         int temp = times[i];
                         times[i] = times[j];
@@ -38,9 +38,9 @@ int main(int argc, char **argv)
                 }
 
             }
-            printf("%s %d\n", names[0], times[0]);
-            printf("%s %d\n", names[1], times[1]);
-            printf("%s %d\n", names[2], times[2]);
+            printf("%s %d\n", names[TABLE_SIZE-1], times[TABLE_SIZE-1]);
+            printf("%s %d\n", names[TABLE_SIZE-2], times[TABLE_SIZE-2]);
+            printf("%s %d\n", names[TABLE_SIZE-3], times[TABLE_SIZE-3]);
 
             break;
         case 2:
